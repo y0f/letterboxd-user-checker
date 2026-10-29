@@ -1,0 +1,7 @@
+proxies.txt
+available.txt
+reserved.txt
+checked.txt
+run.log
+*.exe
+lbcheck
