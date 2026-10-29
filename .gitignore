@@ -7,3 +7,7 @@ run*.log
 lbcheck
 wordlists/3char.txt
 ranked*.txt
+
+# results/ is published on purpose
+!results/
+!results/**

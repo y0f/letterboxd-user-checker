@@ -1,0 +1,121 @@
+# Free Letterboxd usernames, 3-5 letters, nouns only: no verbs, plurals or names.
+# Shortest first, then most used first. rank, name, zipf (how common, 1-8), class, meaning
+1	kbit	1.8	noun	a unit of information equal to 1000 bits
+2	culm	1.8	noun	stem of plants of the Gramineae
+3	uvea	1.5	noun	the part of the eye that contains the iris and ciliary body and choroid
+4	bumf	1.2	noun	reading materials (documents, written information) that you must read and deal with but that you think are extremely boring
+5	uxor	1.0	noun	(legal terminology) the Latin word for wife
+6	eyry	0.0	noun	the lofty nest of a bird of prey (such as a hawk or eagle)
+7	fthm	0.0	noun	a linear unit of measurement (equal to 6 feet) for water depth
+8	lwei	0.0	noun	100 lwei equal 1 kwanza in Angola
+9	glebe	2.6	noun	plot of land belonging to an English parish church or an ecclesiastical office
+10	locum	2.6	noun	someone (physician or clergyman) who substitutes temporarily for another member of the same profession
+11	niqab	2.5	noun	a face veil covering the lower part of the face (up to the eyes) worn by observant Muslim women
+12	butyl	2.5	noun	a hydrocarbon radical (C4H9)
+13	weald	2.3	noun	an area of open or forested country
+14	bocce	2.3	noun	Italian bowling played on a long narrow dirt court
+15	byway	2.2	noun	a side road little traveled (as in the countryside)
+16	peavy	2.2	noun	a stout lever with a sharp spike; used for handling logs
+17	sprue	2.0	noun	a chronic disorder that occurs in tropical and non-tropical forms and in both children and adults; nutrients are not absorbed; symptoms include foul-smelling diarrhea and emaciation
+18	dhoti	2.0	noun	a long loincloth worn by Hindu men
+19	furze	2.0	noun	very spiny and dense evergreen shrub with fragrant golden-yellow flowers; common throughout western Europe
+20	vireo	2.0	noun	any of various small insectivorous American birds chiefly olive-grey in color
+21	gesso	2.0	noun	gypsum or plaster of Paris spread on a surface to make it suitable for painting or gilding (or a surface so prepared)
+22	ileum	2.0	noun	the part of the small intestine between the jejunum and the cecum
+23	motet	2.0	noun	an unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century
+24	cauda	1.9	noun	any taillike structure
+25	hirer	1.9	noun	a person responsible for hiring workers
+26	sunup	1.8	noun	the first light of day
+27	scaup	1.7	noun	diving ducks of North America having a bluish-grey bill
+28	hudud	1.7	noun	Islamic laws stating the limits ordained by Allah and including the deterrent punishments for serious crimes
+29	hilum	1.7	noun	(anatomy) a depression or fissure where vessels or nerves or ducts enter a bodily organ
+30	cutis	1.6	noun	a natural protective body covering and site of the sense of touch
+31	maund	1.6	noun	a unit of weight used in Asia; has different values in different countries
+32	ileus	1.6	noun	blockage of the intestine (especially the ileum) that prevents the contents of the intestine from passing to the lower bowel
+33	corer	1.6	noun	a device for removing the core from apples
+34	atopy	1.6	noun	an allergic reaction that becomes apparent in a sensitized person only minutes after contact
+35	draba	1.6	noun	any of numerous low-growing cushion-forming plants of the genus Draba having rosette-forming leaves and terminal racemes of small flowers with scapose or leafy stems; fruit is a dehiscent oblong or linear silique
+36	tilth	1.5	noun	the state of aggregation of soil and its condition for supporting plant growth
+37	ascus	1.5	noun	saclike structure in which ascospores are formed through sexual reproduction of ascomycetes
+38	quoit	1.5	noun	game equipment consisting of a ring of iron or circle of rope used in playing the game of quoits
+39	amnio	1.5	noun	(pregnancy) extraction by centesis of amniotic fluid from a pregnant woman (after the 15th week of pregnancy) to aid in the diagnosis of fetal abnormalities
+40	musth	1.5	noun	an annual phase of heightened sexual excitement in the males of certain large mammals (especially elephants); is associated with discharge from a gland between the eye and ear
+41	cowry	1.4	noun	any of numerous tropical marine gastropods of the genus Cypraea having highly polished usually brightly marked shells
+42	ephah	1.4	noun	an ancient Hebrew unit of dry measure equal to about a bushel
+43	mucor	1.4	noun	any mold of the genus Mucor
+44	socle	1.4	noun	a plain plinth that supports a wall
+45	dicot	1.4	noun	flowering plant with two cotyledons; the stem grows by deposit on its outside
+46	faqir	1.4	noun	a Muslim or Hindu mendicant monk who is regarded as a holy man
+47	inkle	1.4	noun	a linen tape used for trimming as a decoration
+48	hawse	1.4	noun	the hole that an anchor rope passes through
+49	imide	1.4	noun	any of a class of organic compounds that contain the divalent radical -CONHCO-
+50	pipal	1.4	noun	fig tree of India noted for great size and longevity; lacks the prop roots of the banyan; regarded as sacred by Buddhists
+51	fondu	1.3	noun	cubes of meat or seafood cooked in hot oil and then dipped in any of various sauces
+52	physa	1.3	noun	any member of the genus Physa
+53	asdic	1.3	noun	a measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return
+54	throe	1.2	noun	severe spasm of pain
+55	ormer	1.2	noun	an abalone found near the Channel Islands
+56	scurf	1.2	noun	(botany) a covering that resembles scales or bran that covers some plant parts
+57	terce	1.2	noun	the third canonical hour; about 9 a.m.
+58	barye	1.2	noun	the absolute unit of pressure equal to one dyne per square centimeter
+59	stoep	1.2	noun	small porch or set of steps at the front entrance of a house
+60	equid	1.2	noun	hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck
+61	yenta	1.2	noun	(Yiddish) a vulgar shrew; a shallow coarse termagant
+62	inula	1.2	noun	any plant of the genus Inula
+63	curet	1.1	noun	a surgical instrument shaped like a scoop to remove tissue from a bodily cavity
+64	stupe	1.1	noun	a person who is not very bright
+65	cubeb	1.1	noun	spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes
+66	orlop	1.1	noun	the fourth or lowest deck
+67	cavum	1.1	noun	(anatomy) a natural hollow or sinus within the body
+68	thrip	1.0	noun	any of various small to minute sucking insects with narrow feathery wings if any; they feed on plant sap and many are destructive
+69	agism	0.0	noun	discrimination against middle-aged and elderly people
+70	apery	0.0	noun	the act of mimicking; imitative behavior
+71	armet	0.0	noun	a medieval helmet with a visor and a neck guard
+72	bimli	0.0	noun	valuable fiber plant of East Indies now widespread in cultivation
+73	bumph	0.0	noun	reading materials (documents, written information) that you must read and deal with but that you think are extremely boring
+74	butat	0.0	noun	100 bututs equal 1 dalasi in Gambia
+75	cohoe	0.0	noun	fatty pinkish flesh of small salmon caught in the Pacific and Great Lakes
+76	coign	0.0	noun	expandable metal or wooden wedge used by printers to lock up a form within a chase
+77	ctene	0.0	noun	a locomotor organ consisting of a row of strong cilia whose bases are fused
+78	cupel	0.0	noun	a small porous bowl made of bone ash used in assaying to separate precious metals from e.g. lead
+79	cutin	0.0	noun	(biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids
+80	cypre	0.0	noun	large tropical American tree of the genus Cordia grown for its abundant creamy white flowers and valuable wood
+81	cytol	0.0	noun	the protoplasm of a cell excluding the nucleus; is full of proteins that control cell metabolism
+82	dhawa	0.0	noun	an Indian tree of the family Combretaceae that is a source of timber and gum
+83	eagre	0.0	noun	a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+84	enate	0.0	noun	one related on the mother's side
+85	eyrir	0.0	noun	100 aurar equal 1 krona in Iceland
+86	fauld	0.0	noun	a piece of armor plate below the breastplate
+87	feoff	0.0	noun	a piece of land held under the feudal system
+88	gonif	0.0	noun	(Yiddish) a thief or dishonest person or scoundrel (often used as a general term of abuse)
+89	haulm	0.0	noun	stems of beans and peas and potatoes and grasses collectively as used for thatching and bedding
+90	hexad	0.0	noun	the cardinal number that is the sum of five and one
+91	imaum	0.0	noun	(Islam) the man who leads prayers in a mosque; for Shiites an imam is a recognized authority on Islamic theology and law and a spiritual guide
+92	jiqui	0.0	noun	Cuban timber tree with hard wood very resistant to moisture
+93	kanaf	0.0	noun	valuable fiber plant of East Indies now widespread in cultivation
+94	kiaat	0.0	noun	deciduous South African tree having large odd-pinnate leaves and profuse fragrant orange-yellow flowers; yields a red juice and heavy strong durable wood
+95	kibit	0.0	noun	a unit of information equal to 1024 bits
+96	kitul	0.0	noun	fishtail palm of India to Malay Peninsula; sap yields a brown sugar (jaggery) and trunk pith yields sago
+97	knawe	0.0	noun	widely distributed low-growing Eurasian herb having narrow leaves and inconspicuous green flowers
+98	loasa	0.0	noun	any of various perennial South American plants of the genus Loasa having stinging hairs and showy white or yellow or reddish-orange flowers
+99	mujik	0.0	noun	a Russian peasant (especially prior to 1917)
+100	ngwee	0.0	noun	100 ngwee equal 1 kwacha in Zambia
+101	octad	0.0	noun	the cardinal number that is the sum of seven and one
+102	pipul	0.0	noun	fig tree of India noted for great size and longevity; lacks the prop roots of the banyan; regarded as sacred by Buddhists
+103	poove	0.0	noun	offensive term for an openly homosexual man
+104	purau	0.0	noun	shrubby tree widely distributed along tropical shores; yields a light tough wood used for canoe outriggers and a fiber used for cordage and caulk; often cultivated for ornament
+105	qepiq	0.0	noun	100 qepiq equal 1 manat in Azerbaijan
+106	regur	0.0	noun	a rich black loam of India
+107	retem	0.0	noun	desert shrub of Syria and Arabia having small white flowers; constitutes the juniper of the Old Testament; sometimes placed in genus Genista
+108	rophy	0.0	noun	street names for flunitrazepan
+109	seism	0.0	noun	shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity
+110	shote	0.0	noun	a young pig
+111	shtik	0.0	noun	(Yiddish) a little; a piece
+112	sigeh	0.0	noun	a Shiite tradition of temporary marriage permitted in Iran that allows a couple to specify the terms of their relationship; can last from a few minutes to 99 years
+113	stogy	0.0	noun	a cheap cigar
+114	teiid	0.0	noun	tropical New World lizard with a long tail and large rectangular scales on the belly and a long tail
+115	tepal	0.0	noun	an undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips)
+116	toupe	0.0	noun	a small hairpiece to cover partial baldness
+117	tsine	0.0	noun	wild ox of the Malay Archipelago
+118	tyiyn	0.0	noun	100 tyiyn equal 1 som in Kyrgyzstan
+119	vower	0.0	noun	someone who makes a solemn promise to do something or behave in a certain way

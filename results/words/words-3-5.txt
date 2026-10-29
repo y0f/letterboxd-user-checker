@@ -1,0 +1,2148 @@
+# Free Letterboxd usernames, 3-5 letters, every free real word.
+# Shortest first, then most used first. rank, name, zipf (how common, 1-8), class, meaning
+# Only words found in a real dictionary (ENABLE, NLTK words, WordNet).
+1	rcmp	3.0	noun	the federal police force of Canada
+2	whig	3.0	noun	a member of the political party that urged social reform in 18th and 19th century England; was the opposition party to the Tories
+3	dprk	2.9	noun	a communist country in the northern half of the Korean Peninsula; established in 1948
+4	fdic	2.9	noun	a federally sponsored corporation that insures accounts in national banks and other qualified institutions
+5	byes	2.7	noun	you advance to the next round in a tournament without playing an opponent
+6	nlrb	2.7	noun	an independent agency of the United States government charged with mediating disputes between management and labor unions
+7	csis	2.5	noun	Canada's main foreign intelligence agency that gathers and analyzes information to provide security intelligence for the Canadian government
+8	actu	2.4	-	
+9	opcw	2.2	noun	international organization for chemical disarmament; administers the Chemical Weapons Convention
+10	oped	2.1	-	
+11	umps	2.0	noun	an official at a baseball game
+12	updo	2.0	-	
+13	vldl	1.9	noun	large lipoproteins rich in triglycerides; VLDLs circulate through the blood giving up their triglycerides to fat and muscle tissue until the VLDL remnants are modified and converted into LDL
+14	sgml	1.9	noun	(computer science) a standardized language for the descriptive markup of documents; a set of rules for using whatever markup vocabulary is adopted
+15	cabg	1.9	noun	open-heart surgery in which the rib cage is opened and a section of a blood vessel is grafted from the aorta to the coronary artery to bypass the blocked section of the coronary artery and improve the blood supply to the heart
+16	kbit	1.8	noun	a unit of information equal to 1000 bits
+17	culm	1.8	noun	stem of plants of the Gramineae
+18	whop	1.8	verb	hit hard
+19	ibrd	1.8	noun	a United Nations agency created to assist developing nations by loans guaranteed by member governments
+20	inly	1.8	-	
+21	stoa	1.8	-	
+22	ncdc	1.8	noun	the part of NOAA that maintains the world's largest active archive of weather data
+23	copt	1.7	noun	an Egyptian descended from the ancient Egyptians
+24	mmpi	1.7	noun	a self-report personality inventory consisting of 550 items that describe feelings or actions which the person is asked to agree with or disagree with; many scales estimating traits and qualities of personality have been developed using MMPI items
+25	sice	1.7	-	
+26	wafd	1.7	-	
+27	hcfc	1.6	noun	a fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere
+28	lood	1.6	-	
+29	yond	1.5	-	
+30	efts	1.5	noun	a newt in its terrestrial stage of development
+31	uvea	1.5	noun	the part of the eye that contains the iris and ciliary body and choroid
+32	wyte	1.5	-	
+33	waac	1.4	-	
+34	wouk	1.4	noun	United States writer (born in 1915)
+35	wair	1.4	-	
+36	fixt	1.4	-	
+37	nejd	1.4	noun	a central plateau region of the Arabian Peninsula; formerly an independent sultanate until 1932 when it united with Hejaz to form the Kingdom of Saudi Arabia
+38	ukes	1.4	noun	a small guitar having four strings
+39	doeg	1.4	-	
+40	ogpu	1.4	-	
+41	ijma	1.3	-	
+42	yday	1.2	-	
+43	nebe	1.2	noun	the compass point that is one point east of northeast
+44	uscb	1.2	noun	the agency of the Treasury Department that enforces import tariffs
+45	bumf	1.2	noun	reading materials (documents, written information) that you must read and deal with but that you think are extremely boring
+46	nswc	1.2	noun	the agency that provides scientific and engineering and technical support for all aspects of surface warfare
+47	laic	1.2	adj	characteristic of those who are not members of the clergy
+48	oord	1.1	-	
+49	teuk	1.1	-	
+50	mdiv	1.1	noun	a master's degree in religion
+51	adps	1.1	noun	a system of one or more computers and associated software with common storage
+52	awfu	1.1	-	
+53	wyes	1.1	noun	the 25th letter of the Roman alphabet
+54	lxxv	1.0	adj	being five more than seventy
+55	pyes	1.0	-	
+56	atip	1.0	-	
+57	uxor	1.0	noun	(legal terminology) the Latin word for wife
+58	wauk	1.0	-	
+59	ajog	0.0	-	
+60	bual	0.0	-	
+61	byrl	0.0	-	
+62	cafh	0.0	-	
+63	cnpz	0.0	noun	a terrorist organization in Bolivia that acts as an umbrella for numerous small indigenous subversive groups; a revival of a group with Marxist-Leninist ideologies originally established by Che Guevara in the 1960s
+64	cuvy	0.0	-	
+65	cwms	0.0	noun	a steep-walled semicircular basin in a mountain; may contain a lake
+66	cxlv	0.0	adj	being five more than one hundred forty
+67	dccp	0.0	noun	an agency of the United Nations that promotes drug control and crime prevention
+68	dflp	0.0	noun	a Marxist-Leninist group that believes Palestinian goals can only be achieved by revolutionary change
+69	dowf	0.0	-	
+70	dowp	0.0	-	
+71	egbo	0.0	-	
+72	egtk	0.0	noun	a terrorist group that is the remnants of the original Bolivian insurgents trained by Che Guevara; attacks small unprotected targets such as power pylons or oil pipelines or government buildings
+73	ekoi	0.0	-	
+74	etua	0.0	-	
+75	etym	0.0	-	
+76	ewry	0.0	-	
+77	eyne	0.0	-	
+78	eyry	0.0	noun	the lofty nest of a bird of prey (such as a hawk or eagle)
+79	ezba	0.0	-	
+80	feod	0.0	-	
+81	fowk	0.0	-	
+82	fthm	0.0	noun	a linear unit of measurement (equal to 6 feet) for water depth
+83	gawm	0.0	-	
+84	ghuz	0.0	-	
+85	gleg	0.0	-	
+86	goaf	0.0	-	
+87	gowf	0.0	-	
+88	guvs	0.0	-	
+89	gype	0.0	-	
+90	haet	0.0	-	
+91	heml	0.0	-	
+92	hewt	0.0	-	
+93	himp	0.0	-	
+94	hler	0.0	-	
+95	hyte	0.0	-	
+96	icsh	0.0	noun	a gonadotropic hormone that is secreted by the anterior pituitary; stimulates ovulation in female mammals and stimulates androgen release in male mammals
+97	itmo	0.0	-	
+98	itys	0.0	-	
+99	keup	0.0	-	
+100	koph	0.0	-	
+101	kuar	0.0	-	
+102	lwei	0.0	noun	100 lwei equal 1 kwanza in Angola
+103	mowt	0.0	-	
+104	nebn	0.0	noun	the compass point that is one point north of northeast
+105	nrti	0.0	noun	an antiviral drug used against HIV; is incorporated into the DNA of the virus and stops the building process; results in incomplete DNA that cannot create a new virus; often used in combination with other drugs
+106	nuwc	0.0	noun	the agency that provides scientific and engineering and technical support for submarine and undersea warfare systems
+107	nwbn	0.0	noun	the compass point that is one point north of northwest
+108	nwbw	0.0	noun	the compass point that is one point west of northwest
+109	odic	0.0	-	
+110	ohoy	0.0	-	
+111	ooid	0.0	-	
+112	ouph	0.0	-	
+113	owse	0.0	-	
+114	peai	0.0	-	
+115	pfui	0.0	-	
+116	phoh	0.0	-	
+117	pize	0.0	-	
+118	plud	0.0	-	
+119	pooa	0.0	-	
+120	pruh	0.0	-	
+121	pyic	0.0	-	
+122	qung	0.0	-	
+123	rtlt	0.0	noun	the elapsed time it takes for a signal to travel from Earth to a spacecraft (or other body) and back to the starting point
+124	sclk	0.0	noun	the clock time given by a clock carried on board a spacecraft
+125	scpo	0.0	noun	a senior noncommissioned officer in the Navy or Coast Guard with a rank comparable to master sergeant in the Army
+126	scun	0.0	-	
+127	skef	0.0	-	
+128	sowt	0.0	-	
+129	suqs	0.0	-	
+130	swbw	0.0	noun	the compass point that is one point west of southwest
+131	swom	0.0	-	
+132	tirl	0.0	-	
+133	togt	0.0	-	
+134	topv	0.0	noun	an oral vaccine (containing live but weakened poliovirus) that is given to provide immunity to poliomyelitis
+135	tynd	0.0	-	
+136	upby	0.0	-	
+137	upgo	0.0	-	
+138	urde	0.0	-	
+139	urds	0.0	noun	goddess of fate: a giantess who personified the past
+140	vaws	0.0	-	
+141	vrow	0.0	-	
+142	waeg	0.0	-	
+143	wauf	0.0	-	
+144	wawl	0.0	verb	make high-pitched, whiney noises
+145	whuz	0.0	-	
+146	woan	0.0	-	
+147	woft	0.0	-	
+148	wulk	0.0	-	
+149	wusp	0.0	-	
+150	wype	0.0	-	
+151	yaje	0.0	-	
+152	yalb	0.0	-	
+153	yaud	0.0	-	
+154	yawy	0.0	-	
+155	yilt	0.0	-	
+156	yirn	0.0	-	
+157	yowt	0.0	-	
+158	yuft	0.0	-	
+159	zbit	0.0	noun	a unit of information equal to 1000 exabits or 10^21 bits
+160	qaeda	3.6	noun	a terrorist network intensely opposed to the United States that dispenses money and logistical support and training to a wide variety of radical Islamic terrorist groups; has cells in more than 50 countries
+161	sects	3.1	noun	a subdivision of a larger religious group
+162	utica	3.0	noun	a city in central New York
+163	outed	2.9	verb	to state openly and publicly one's homosexuality
+164	masts	2.9	noun	a vertical spar for supporting sails
+165	eared	2.8	adj	worn or shabby from overuse or (of pages) from having corners turned down; -Clifton Fadiman
+166	hunan	2.8	noun	a province in southeastern central China between the Nan Ling mountains and the Chang Jiang; noted for its timber and valuable mineral resources
+167	buoys	2.8	noun	bright-colored; a float attached by rope to the seabed to mark channels in a harbor or underwater hazards
+168	posit	2.8	noun	(logic) a proposition that is accepted as true in order to provide a basis for logical reasoning
+169	kilns	2.7	noun	a furnace for firing or burning or drying such things as porcelain or bricks
+170	inlay	2.7	noun	(dentistry) a filling consisting of a solid substance (as gold or porcelain) fitted to a cavity in a tooth and cemented into place
+171	tyrol	2.7	noun	a picturesque mountainous province of western Austria and northern Italy
+172	enrol	2.7	verb	register formally as a participant or member
+173	glebe	2.6	noun	plot of land belonging to an English parish church or an ecclesiastical office
+174	doers	2.6	noun	a person who acts and gets things done
+175	hebei	2.6	noun	a populous province in northeastern China
+176	plies	2.6	noun	one of the strands twisted together to make yarn or rope or thread; often used in combination
+177	cours	2.6	-	
+178	locum	2.6	noun	someone (physician or clergyman) who substitutes temporarily for another member of the same profession
+179	lobed	2.6	verb	propel in a high arc
+180	ovate	2.6	adj	of a leaf shape; egg-shaped with the broader end at the base
+181	plied	2.6	verb	give what is desired or needed, especially support, food or sustenance
+182	rungs	2.5	noun	a crosspiece between the legs of a chair
+183	unwed	2.5	adj	of someone who has not been married
+184	wooed	2.5	verb	seek someone's favor
+185	niqab	2.5	noun	a face veil covering the lower part of the face (up to the eyes) worn by observant Muslim women
+186	terns	2.5	noun	small slender gull having narrow wings and a forked tail
+187	butyl	2.5	noun	a hydrocarbon radical (C4H9)
+188	cobol	2.5	noun	common business-oriented language
+189	lasik	2.5	noun	a refractive surgery procedure that reshapes the cornea
+190	cajon	2.5	-	
+191	voles	2.5	noun	any of various small mouselike rodents of the family Cricetidae (especially of genus Microtus) having a stout short-tailed body and inconspicuous ears and inhabiting fields or meadows
+192	didst	2.4	-	
+193	cuzco	2.4	noun	a town in the Andes in southern Peru; formerly the capital of the Inca empire
+194	begat	2.4	verb	make children
+195	hants	2.4	-	
+196	punic	2.4	noun	the Phoenician dialect of ancient Carthage
+197	cowed	2.4	verb	subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats)
+198	beget	2.4	verb	make children
+199	miter	2.4	noun	joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner
+200	kursk	2.4	noun	a city of southwestern Russia
+201	rinds	2.3	noun	the natural outer covering of food (usually removed before eating)
+202	weirs	2.3	noun	a low dam built across a stream to raise its level or divert its flow
+203	gilts	2.3	noun	a coating of gold or of something that looks like gold
+204	weald	2.3	noun	an area of open or forested country
+205	abuts	2.3	verb	lie adjacent to another or share a boundary
+206	doled	2.3	-	
+207	peons	2.3	noun	a laborer who is obliged to do menial work
+208	teats	2.3	noun	the small projection of a mammary gland
+209	wombs	2.3	noun	a hollow muscular organ in the pelvic cavity of females; contains the developing fetus
+210	bocce	2.3	noun	Italian bowling played on a long narrow dirt court
+211	veuve	2.2	-	
+212	exons	2.2	noun	sequence of a gene's DNA that transcribes into protein structures
+213	byway	2.2	noun	a side road little traveled (as in the countryside)
+214	setae	2.2	noun	stalk of a moss capsule
+215	anent	2.2	-	
+216	praha	2.2	noun	the capital and largest city of the Czech Republic in the western part of the country; a cultural and commercial center since the 14th century
+217	agers	2.2	-	
+218	cusps	2.2	noun	point formed by two intersecting arcs (as from the intrados of a Gothic arch)
+219	fonds	2.2	-	
+220	gaily	2.2	adverb	in a gay manner
+221	fiefs	2.2	noun	a piece of land held under the feudal system
+222	serio	2.2	-	
+223	peavy	2.2	noun	a stout lever with a sharp spike; used for handling logs
+224	floes	2.2	noun	a flat mass of ice (smaller than an ice field) floating at sea
+225	pupal	2.1	adj	of the insects in the chrysalis (cocoon) or post larval stage
+226	jibes	2.1	noun	an aggressive remark directed at a person like a missile and intended to have a telling effect
+227	welty	2.1	noun	United States writer about rural southern life (1909-2001)
+228	vagal	2.1	adj	of or relating to the vagus nerve
+229	baulk	2.1	noun	the area on a billiard table behind the balkline
+230	rnase	2.1	noun	a transferase that catalyzes the hydrolysis of ribonucleic acid
+231	thiol	2.1	-	
+232	balks	2.1	noun	the area on a billiard table behind the balkline
+233	culex	2.1	noun	type genus of the Culicidae: widespread genus of mosquitoes distinguished by holding the body parallel to the resting surface
+234	nisei	2.1	noun	a person born in the United States of parents who emigrated from Japan
+235	moyle	2.1	-	
+236	rials	2.1	noun	the basic unit of money in Yemen; equal to 100 fils
+237	wafts	2.1	noun	a long flag; often tapering
+238	hield	2.1	-	
+239	lutea	2.1	-	
+240	pugin	2.0	noun	English architect who played a prominent role in the 19th century revival of Gothic architecture (1812-1852)
+241	sprue	2.0	noun	a chronic disorder that occurs in tropical and non-tropical forms and in both children and adults; nutrients are not absorbed; symptoms include foul-smelling diarrhea and emaciation
+242	eelam	2.0	noun	the independent state that the Tamil Tigers have fought for
+243	lytic	2.0	-	
+244	pined	2.0	verb	have a desire for something or someone who is not present
+245	throu	2.0	-	
+246	araby	2.0	-	
+247	cooed	2.0	verb	speak softly or lovingly
+248	iowan	2.0	noun	a native or resident of Iowa
+249	objet	2.0	-	
+250	acing	2.0	verb	succeed at easily
+251	doeth	2.0	-	
+252	dhoti	2.0	noun	a long loincloth worn by Hindu men
+253	flied	2.0	-	
+254	furze	2.0	noun	very spiny and dense evergreen shrub with fragrant golden-yellow flowers; common throughout western Europe
+255	yurts	2.0	noun	a circular domed dwelling that is portable and self-supporting; originally used by nomadic Mongol and Turkic people of central Asia but now used as inexpensive alternative or temporary housing
+256	vireo	2.0	noun	any of various small insectivorous American birds chiefly olive-grey in color
+257	bizet	2.0	noun	French composer best known for his operas (1838-1875)
+258	gesso	2.0	noun	gypsum or plaster of Paris spread on a surface to make it suitable for painting or gilding (or a surface so prepared)
+259	lasix	2.0	noun	commonly used diuretic (trade name Lasix) used to treat hypertension and edema
+260	pedes	2.0	noun	the part of the leg of a human being below the ankle joint
+261	sotho	2.0	noun	a member of the Bantu people who inhabit Botswana, Lesotho, and northern South Africa and who speak the Sotho languages
+262	sulks	2.0	noun	a mood or display of sullen aloofness or withdrawal
+263	wides	2.0	-	
+264	drily	2.0	adverb	in a dry laconic manner;  he said dryly
+265	heeds	2.0	noun	paying particular notice (as to children or helpless people)
+266	ileum	2.0	noun	the part of the small intestine between the jejunum and the cecum
+267	inlaw	2.0	-	
+268	motet	2.0	noun	an unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century
+269	paned	2.0	verb	make a sweeping movement
+270	brahe	1.9	noun	Danish astronomer whose observations of the planets provided the basis for Kepler's laws of planetary motion (1546-1601)
+271	lhota	1.9	-	
+272	lyase	1.9	-	
+273	oboes	1.9	noun	a slender double-reed instrument; a woodwind with a conical bore and a double-reed mouthpiece
+274	wolds	1.9	noun	a tract of open rolling country (especially upland)
+275	cauda	1.9	noun	any taillike structure
+276	coorg	1.9	-	
+277	lodha	1.9	-	
+278	plzen	1.9	noun	a town in Czech Republic where Pilsner beer originated
+279	sitio	1.9	-	
+280	goads	1.9	noun	a pointed instrument that is used to prod into a state of motion
+281	jemez	1.9	-	
+282	ohmic	1.9	adj	of or relating to or measured in ohms
+283	hasek	1.9	noun	Czech author of novels and short stories (1883-1923)
+284	hewed	1.9	verb	make or shape as with an axe
+285	hirer	1.9	noun	a person responsible for hiring workers
+286	khufu	1.9	noun	Egyptian Pharaoh of the 27th century BC who commissioned the Great Pyramid at Giza
+287	pfalz	1.9	noun	a territory in southwestern Germany formerly ruled by the counts palatine
+288	twere	1.9	-	
+289	gaits	1.9	noun	the rate of moving (especially walking or running)
+290	pardi	1.9	-	
+291	tuxes	1.9	noun	semiformal evening dress for men
+292	tyers	1.9	-	
+293	ulmus	1.9	noun	type genus of family Ulmaceae; deciduous trees having simple serrate leaves; widely distributed in temperate regions
+294	wolof	1.9	noun	the West African language of the Wolof in Senegal; related to Fula
+295	sifts	1.9	verb	move as if through a sieve
+296	haply	1.8	adverb	by accident
+297	rebuy	1.8	-	
+298	gists	1.8	noun	the central meaning or theme of a speech or literary work
+299	payor	1.8	-	
+300	cowls	1.8	noun	protective covering consisting of a metal part that covers the engine
+301	setts	1.8	noun	rectangular paving stone with curved top; once used to make roads
+302	toity	1.8	-	
+303	rasps	1.8	noun	uttering in an irritated tone
+304	sexts	1.8	noun	the fourth of the seven canonical hours; about noon
+305	ordos	1.8	-	
+306	ousts	1.8	verb	remove from a position or office
+307	apter	1.8	adj	(usually followed by `to') naturally disposed toward
+308	dojos	1.8	-	
+309	frons	1.8	-	
+310	scats	1.8	noun	singing jazz; the singer substitutes nonsense syllables for the words of the song and tries to sound like a musical instrument
+311	bided	1.8	verb	dwell
+312	kotex	1.8	noun	a disposable absorbent pad (trade name Kotex); worn to absorb menstrual flow
+313	pisan	1.8	-	
+314	sunup	1.8	noun	the first light of day
+315	gamay	1.8	-	
+316	gyres	1.8	noun	a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
+317	rasht	1.8	noun	city in northwestern Iran near the Caspian Sea
+318	ugric	1.8	noun	one of the two branches of the Finno-Ugric family of languages; spoken in Hungary and northwestern Siberia
+319	urmia	1.8	noun	a shallow saline lake in northwestern Iran between Tabriz and the western border of Turkey
+320	infix	1.8	noun	an affix that is inserted inside the word
+321	toles	1.8	noun	enameled or lacquered metalware (usually gilded and elaborately painted); popular in the 18th century
+322	fuzes	1.8	noun	any igniter that is used to initiate the burning of a propellant
+323	oleum	1.8	-	
+324	tipis	1.8	noun	a Native American tent; usually of conical shape
+325	toted	1.8	verb	carry with difficulty
+326	udell	1.8	-	
+327	crecy	1.7	noun	the first decisive battle of the Hundred Years' War; in 1346 the English under Edward III defeated the French under Philip of Valois
+328	recta	1.7	noun	the terminal section of the alimentary canal; from the sigmoid flexure to the anus
+329	scaup	1.7	noun	diving ducks of North America having a bluish-grey bill
+330	ables	1.7	-	
+331	uteri	1.7	noun	a hollow muscular organ in the pelvic cavity of females; contains the developing fetus
+332	weans	1.7	verb	gradually deprive (infants and young mammals) of mother's milk
+333	kolam	1.7	noun	a member of a formerly tribal people now living in south central India
+334	peine	1.7	-	
+335	gaffs	1.7	noun	a sharp metal spike or spur that is fastened to the leg of a gamecock
+336	dhows	1.7	noun	a lateen-rigged sailing vessel used by Arabs
+337	hudud	1.7	noun	Islamic laws stating the limits ordained by Allah and including the deterrent punishments for serious crimes
+338	turfs	1.7	noun	surface layer of ground containing a mat of grass and grass roots
+339	bines	1.7	noun	European twining plant whose flowers are used chiefly to flavor malt liquors; cultivated in America
+340	coved	1.7	-	
+341	gamow	1.7	noun	United States physicist (born in Russia) who was a proponent of the big-bang theory and who did research in radioactivity and suggested the triplet code for DNA (1904-1968)
+342	mulga	1.7	-	
+343	tecum	1.7	-	
+344	gotra	1.7	-	
+345	muhly	1.7	-	
+346	uveal	1.7	adj	of or relating to the uvea of the eye
+347	cuing	1.7	verb	assist (somebody acting or reciting) by suggesting the next words of something forgotten or imperfectly learned
+348	kovno	1.7	noun	a city in central Lithuania
+349	acnes	1.7	noun	an inflammatory disease involving the sebaceous glands of the skin; characterized by papules or pustules or comedones
+350	culms	1.7	noun	stem of plants of the Gramineae
+351	gooks	1.7	noun	any thick, viscous matter
+352	hilum	1.7	noun	(anatomy) a depression or fissure where vessels or nerves or ducts enter a bodily organ
+353	saxes	1.7	noun	a French marshal who distinguished himself in the War of the Austrian Succession (1696-1750)
+354	utile	1.7	adj	being of use or service
+355	witan	1.7	-	
+356	autem	1.6	-	
+357	bargh	1.6	-	
+358	cutis	1.6	noun	a natural protective body covering and site of the sense of touch
+359	podgy	1.6	adj	short and plump
+360	hakea	1.6	noun	Australian shrubs and small trees with evergreen usually spiny leaves and dense clusters of showy flowers
+361	icily	1.6	adverb	in a cold and icy manner
+362	maund	1.6	noun	a unit of weight used in Asia; has different values in different countries
+363	burse	1.6	-	
+364	gluts	1.6	noun	the quality of being so overabundant that prices fall
+365	liers	1.6	-	
+366	unfed	1.6	adj	not fed
+367	abets	1.6	verb	assist or encourage, usually in some wrongdoing
+368	koans	1.6	noun	a paradoxical anecdote or a riddle that has no solution; used in Zen Buddhism to show the inadequacy of logical reasoning
+369	loams	1.6	noun	a rich soil consisting of a mixture of sand and clay and decaying organic materials
+370	aalst	1.6	noun	a town in central Belgium
+371	lisps	1.6	noun	a speech defect that involves pronouncing `s' like voiceless `th' and `z' like voiced `th'
+372	silyl	1.6	-	
+373	gaols	1.6	noun	a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)
+374	hived	1.6	verb	store, like bees
+375	ileus	1.6	noun	blockage of the intestine (especially the ileum) that prevents the contents of the intestine from passing to the lower bowel
+376	wefts	1.6	noun	the yarn woven across the warp yarn in weaving
+377	calpe	1.6	noun	location of a colony of the United Kingdom on a limestone promontory at the southern tip of Spain; strategically important because it can control the entrance of ships into the Mediterranean; one of the Pillars of Hercules
+378	dites	1.6	-	
+379	ephod	1.6	-	
+380	ither	1.6	-	
+381	oared	1.6	-	
+382	staab	1.6	-	
+383	bungs	1.6	noun	a plug used to close a hole in a barrel or flask
+384	corer	1.6	noun	a device for removing the core from apples
+385	coxed	1.6	verb	act as the coxswain, in a boat race
+386	daube	1.6	-	
+387	fazes	1.6	verb	disturb the composure of
+388	inapt	1.6	adj	not elegant or graceful in expression
+389	odets	1.6	noun	United States playwright (1906-1963)
+390	pisum	1.6	noun	small genus of variable annual Eurasian vines: peas
+391	usque	1.6	-	
+392	worts	1.6	noun	usually used in combination: `liverwort'; `milkwort'; `whorlywort'
+393	atopy	1.6	noun	an allergic reaction that becomes apparent in a sensitized person only minutes after contact
+394	draba	1.6	noun	any of numerous low-growing cushion-forming plants of the genus Draba having rosette-forming leaves and terminal racemes of small flowers with scapose or leafy stems; fruit is a dehiscent oblong or linear silique
+395	huaca	1.6	-	
+396	ioway	1.6	noun	a member of the Siouan people formerly living in Iowa and Minnesota and Missouri
+397	leuco	1.6	-	
+398	bahut	1.6	-	
+399	rugae	1.6	noun	(anatomy) a fold or wrinkle or crease
+400	scudi	1.6	-	
+401	unrra	1.6	-	
+402	bifid	1.5	adj	divided into two lobes
+403	tilth	1.5	noun	the state of aggregation of soil and its condition for supporting plant growth
+404	achor	1.5	-	
+405	apses	1.5	noun	a domed or vaulted recess or projection on a building especially the east end of a church; usually contains the altar
+406	boyos	1.5	-	
+407	gafsa	1.5	noun	a city in west central Tunisia
+408	jagir	1.5	-	
+409	mense	1.5	-	
+410	vises	1.5	noun	a holding device attached to a workbench; has two jaws to hold workpiece firmly in place
+411	wecht	1.5	-	
+412	heiau	1.5	-	
+413	rejig	1.5	verb	re-equip a factory or plant
+414	smolt	1.5	-	
+415	ascus	1.5	noun	saclike structure in which ascospores are formed through sexual reproduction of ascomycetes
+416	quoit	1.5	noun	game equipment consisting of a ring of iron or circle of rope used in playing the game of quoits
+417	shoed	1.5	verb	furnish with shoes
+418	sures	1.5	-	
+419	cecal	1.5	adj	of or like a cecum
+420	coxes	1.5	noun	either of two related enzymes that control the production of prostaglandins and are blocked by aspirin
+421	mbira	1.5	-	
+422	musks	1.5	noun	an odorous glandular secretion from the male musk deer; used as a perfume fixative
+423	piute	1.5	noun	a member of either of two Shoshonean peoples (northern Paiute and southern Paiute) related to the Aztecs and living in the southwestern United States
+424	rends	1.5	verb	tear or be torn violently
+425	rusks	1.5	noun	slice of sweet raised bread baked again until it is brown and hard and crisp
+426	amnio	1.5	noun	(pregnancy) extraction by centesis of amniotic fluid from a pregnant woman (after the 15th week of pregnancy) to aid in the diagnosis of fetal abnormalities
+427	kyats	1.5	noun	the basic unit of money in Myanmar
+428	ofter	1.5	-	
+429	recti	1.5	noun	any of various straight muscles
+430	clomp	1.5	verb	walk clumsily
+431	porny	1.5	-	
+432	triac	1.5	-	
+433	cetyl	1.5	-	
+434	chapt	1.5	-	
+435	hasid	1.5	noun	a member of a Jewish sect that observes a form of strict Orthodox Judaism
+436	loped	1.5	verb	run easily
+437	adzes	1.5	noun	an edge tool used to cut and shape wood
+438	cowal	1.5	-	
+439	fitly	1.5	adverb	in an appropriate manner
+440	musth	1.5	noun	an annual phase of heightened sexual excitement in the males of certain large mammals (especially elephants); is associated with discharge from a gland between the eye and ear
+441	snork	1.5	-	
+442	hexyl	1.4	-	
+443	ictal	1.4	adj	of or relating to a seizure or convulsion
+444	okrug	1.4	-	
+445	stopt	1.4	-	
+446	taegu	1.4	noun	a city in southeastern South Korea
+447	cowry	1.4	noun	any of numerous tropical marine gastropods of the genus Cypraea having highly polished usually brightly marked shells
+448	ephah	1.4	noun	an ancient Hebrew unit of dry measure equal to about a bushel
+449	genal	1.4	-	
+450	imbed	1.4	verb	fix or set securely or deeply
+451	mucor	1.4	noun	any mold of the genus Mucor
+452	pinsk	1.4	noun	a city of southwestern Belarus
+453	sikar	1.4	-	
+454	socle	1.4	noun	a plain plinth that supports a wall
+455	wanly	1.4	adverb	in a weak or pale or languid manner
+456	getae	1.4	-	
+457	roils	1.4	verb	be agitated
+458	vlach	1.4	-	
+459	coxae	1.4	noun	the ball-and-socket joint between the head of the femur and the acetabulum
+460	dicot	1.4	noun	flowering plant with two cotyledons; the stem grows by deposit on its outside
+461	parrs	1.4	noun	Queen of England as the 6th wife of Henry VIII (1512-1548)
+462	wetly	1.4	-	
+463	faqir	1.4	noun	a Muslim or Hindu mendicant monk who is regarded as a holy man
+464	gujar	1.4	-	
+465	dusun	1.4	-	
+466	easer	1.4	-	
+467	kufic	1.4	-	
+468	muong	1.4	-	
+469	cists	1.4	-	
+470	inkle	1.4	noun	a linen tape used for trimming as a decoration
+471	podia	1.4	noun	a platform raised above the surrounding level to give prominence to the person on it
+472	epact	1.4	-	
+473	jibed	1.4	verb	be compatible, similar or consistent; coincide in their characteristics
+474	oraon	1.4	-	
+475	airth	1.4	-	
+476	fulbe	1.4	noun	a member of a pastoral and nomadic people of western Africa; they are traditionally cattle herders of Muslim faith
+477	hawse	1.4	noun	the hole that an anchor rope passes through
+478	imide	1.4	noun	any of a class of organic compounds that contain the divalent radical -CONHCO-
+479	oujda	1.4	noun	a city in northeastern Morocco near the Algerian border
+480	pipal	1.4	noun	fig tree of India noted for great size and longevity; lacks the prop roots of the banyan; regarded as sacred by Buddhists
+481	stept	1.4	-	
+482	tagal	1.4	-	
+483	vodun	1.4	-	
+484	ghaut	1.4	-	
+485	stagy	1.4	adj	having characteristics of the stage especially an artificial and mannered quality
+486	styes	1.4	noun	an infection of the sebaceous gland of the eyelid
+487	twite	1.4	-	
+488	fleay	1.3	-	
+489	retie	1.3	verb	tie again or anew
+490	unzen	1.3	-	
+491	ureas	1.3	noun	the chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics
+492	doffs	1.3	verb	remove
+493	indol	1.3	-	
+494	sodic	1.3	-	
+495	wasat	1.3	-	
+496	genua	1.3	noun	hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella
+497	ghyll	1.3	-	
+498	supai	1.3	-	
+499	temne	1.3	-	
+500	updos	1.3	-	
+501	apium	1.3	noun	celery
+502	mbeya	1.3	noun	a city in southwestern Tanzania
+503	oping	1.3	-	
+504	scows	1.3	noun	any of various flat-bottomed boats with sloping ends
+505	skirl	1.3	noun	the sound of (the chanter of) a bagpipe
+506	vacua	1.3	noun	the absence of matter
+507	wains	1.3	noun	English writer (1925-1994)
+508	tiple	1.3	-	
+509	arhar	1.3	-	
+510	batwa	1.3	-	
+511	eyers	1.3	-	
+512	fondu	1.3	noun	cubes of meat or seafood cooked in hot oil and then dipped in any of various sauces
+513	yeard	1.3	-	
+514	dirts	1.3	noun	the part of the earth's surface consisting of humus and disintegrated rock
+515	kaons	1.3	noun	an unstable meson produced as the result of a high-energy particle collision
+516	physa	1.3	noun	any member of the genus Physa
+517	socii	1.3	-	
+518	tweel	1.3	-	
+519	coifs	1.3	noun	the arrangement of the hair (especially a woman's hair)
+520	dropt	1.3	-	
+521	hurri	1.3	-	
+522	onlay	1.3	-	
+523	asdic	1.3	noun	a measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return
+524	darst	1.3	-	
+525	hilsa	1.3	-	
+526	niton	1.3	-	
+527	purls	1.3	noun	gold or silver wire thread
+528	bajau	1.2	-	
+529	boart	1.2	-	
+530	laxly	1.2	adverb	in a permissively lenient manner
+531	satem	1.2	-	
+532	umiak	1.2	-	
+533	yourn	1.2	-	
+534	copei	1.2	-	
+535	cymry	1.2	noun	a native or resident of Wales
+536	holer	1.2	-	
+537	luaus	1.2	noun	an elaborate Hawaiian feast or party (especially one accompanied by traditional foods and entertainment)
+538	lxxii	1.2	adj	being two more than seventy
+539	morns	1.2	noun	the time period between dawn and noon
+540	pends	1.2	-	
+541	phots	1.2	noun	a unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux
+542	skees	1.2	-	
+543	tetum	1.2	-	
+544	throe	1.2	noun	severe spasm of pain
+545	tsubo	1.2	-	
+546	ormer	1.2	noun	an abalone found near the Channel Islands
+547	scurf	1.2	noun	(botany) a covering that resembles scales or bran that covers some plant parts
+548	terce	1.2	noun	the third canonical hour; about 9 a.m.
+549	unsex	1.2	verb	deprive of sex or sexual powers
+550	barye	1.2	noun	the absolute unit of pressure equal to one dyne per square centimeter
+551	skelp	1.2	-	
+552	stoep	1.2	noun	small porch or set of steps at the front entrance of a house
+553	swots	1.2	noun	an insignificant student who is ridiculed as being affected or boringly studious
+554	calks	1.2	noun	a metal cleat on the bottom front of a horseshoe to prevent slipping
+555	dormy	1.2	adj	in match play a side that stands as many holes ahead as there are holes remaining to be played
+556	drupa	1.2	-	
+557	equid	1.2	noun	hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck
+558	knurl	1.2	-	
+559	prier	1.2	-	
+560	tided	1.2	verb	rise or move forward
+561	yenta	1.2	noun	(Yiddish) a vulgar shrew; a shallow coarse termagant
+562	faugh	1.2	-	
+563	hongs	1.2	-	
+564	plews	1.2	-	
+565	duala	1.2	-	
+566	khula	1.2	-	
+567	avows	1.2	verb	to declare or affirm solemnly and formally as true
+568	fusus	1.2	-	
+569	hurok	1.2	noun	United States impresario who was born in Russia (1888-1974)
+570	impis	1.2	-	
+571	inula	1.2	noun	any plant of the genus Inula
+572	logoi	1.2	-	
+573	bahts	1.2	noun	the basic unit of money in Thailand
+574	chauk	1.2	-	
+575	furca	1.2	-	
+576	gayly	1.2	adverb	in a joyous manner
+577	hokes	1.2	-	
+578	nambe	1.2	-	
+579	notum	1.2	-	
+580	orgue	1.2	-	
+581	birse	1.2	-	
+582	butea	1.2	noun	genus of East Indian trees or shrubs: dhak
+583	crura	1.2	noun	the leg from the knee to foot
+584	puces	1.2	noun	a color varying from dark purplish brown to dark red
+585	kafta	1.1	-	
+586	lxxxi	1.1	adj	being one more than eighty
+587	tabid	1.1	-	
+588	arrau	1.1	-	
+589	hybla	1.1	-	
+590	bawds	1.1	noun	a woman who engages in sexual intercourse for money
+591	pasmo	1.1	-	
+592	poufs	1.1	noun	offensive term for an openly homosexual man
+593	qanat	1.1	-	
+594	relet	1.1	-	
+595	waapa	1.1	-	
+596	whoof	1.1	-	
+597	bimah	1.1	-	
+598	cahow	1.1	-	
+599	coxal	1.1	-	
+600	gluer	1.1	-	
+601	knape	1.1	-	
+602	niddm	1.1	noun	mild form of diabetes mellitus that develops gradually in adults; can be precipitated by obesity or severe stress or menopause or other factors; can usually be controlled by diet and hypoglycemic agents without injections of insulin
+603	slape	1.1	-	
+604	spays	1.1	verb	remove the ovaries of
+605	unfix	1.1	-	
+606	usnic	1.1	-	
+607	yawls	1.1	noun	a ship's small boat (usually rowed by 4 or 6 oars)
+608	abuna	1.1	-	
+609	curet	1.1	noun	a surgical instrument shaped like a scoop to remove tissue from a bodily cavity
+610	eddic	1.1	-	
+611	obols	1.1	-	
+612	stupe	1.1	noun	a person who is not very bright
+613	unman	1.1	verb	cause to lose one's nerve
+614	cooey	1.1	-	
+615	coyer	1.1	adj	affectedly modest or shy especially in a playful or provocative way
+616	cubeb	1.1	noun	spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes
+617	pydna	1.1	noun	a major victory by the Romans over the Macedonians in 168 BC; resulted in the downfall of the ancient Macedonian kingdom
+618	rumal	1.1	-	
+619	ulpan	1.1	-	
+620	vidua	1.1	noun	whydahs
+621	cogon	1.1	-	
+622	coomb	1.1	-	
+623	copus	1.1	-	
+624	dekes	1.1	-	
+625	farcy	1.1	-	
+626	orlop	1.1	noun	the fourth or lowest deck
+627	paeon	1.1	-	
+628	tacts	1.1	noun	consideration in dealing with others and avoiding giving offense
+629	turse	1.1	-	
+630	acock	1.1	-	
+631	blida	1.1	noun	a city in northern Algeria at the foot of the Atlas Mountains to the southwest of Algiers
+632	cavum	1.1	noun	(anatomy) a natural hollow or sinus within the body
+633	diked	1.1	verb	enclose with a dike
+634	disci	1.1	noun	an athletic competition in which a disk-shaped object is thrown as far as possible
+635	essed	1.1	-	
+636	intil	1.1	-	
+637	agoge	1.1	-	
+638	culet	1.1	-	
+639	dunam	1.1	-	
+640	indan	1.1	-	
+641	nnrti	1.1	noun	an antiviral drug used against HIV; binds directly to reverse transcriptase and prevents RNA conversion to DNA; often used in combination with other drugs
+642	odeum	1.1	-	
+643	dungs	1.1	noun	fecal matter of animals
+644	exeat	1.1	-	
+645	jilts	1.1	noun	a woman who jilts a lover
+646	burds	1.1	-	
+647	direr	1.1	adj	fraught with extreme danger; nearly hopeless; ; - G.C.Marshall
+648	oohed	1.1	verb	express admiration and pleasure by uttering `ooh' or `aah'
+649	tevet	1.1	noun	the fourth month of the civil year; the tenth month of the ecclesiastical year (in December and January)
+650	tuath	1.1	-	
+651	varve	1.1	-	
+652	xciii	1.1	adj	being three more than ninety
+653	dures	1.0	-	
+654	ilmen	1.0	noun	a lake in northwestern Russia; drains through the Volkhov River into Lake Ladoga
+655	tirer	1.0	-	
+656	hoise	1.0	-	
+657	indue	1.0	verb	give qualities or abilities to
+658	lxxxv	1.0	adj	being five more than eighty
+659	prosy	1.0	adj	lacking wit or imagination
+660	thrip	1.0	noun	any of various small to minute sucking insects with narrow feathery wings if any; they feed on plant sap and many are destructive
+661	algic	1.0	-	
+662	hafts	1.0	noun	the handle of a weapon or tool
+663	hajib	1.0	-	
+664	kikar	1.0	-	
+665	surds	1.0	noun	a consonant produced without sound from the vocal cords
+666	educe	1.0	verb	deduce (a principle) or construe (a meaning)
+667	ghoom	1.0	-	
+668	abaff	0.0	-	
+669	abask	0.0	-	
+670	abave	0.0	-	
+671	abmho	0.0	-	
+672	aboil	0.0	-	
+673	aboma	0.0	-	
+674	abwab	0.0	-	
+675	abyes	0.0	verb	make amends for
+676	abyla	0.0	noun	a promontory in northern Morocco opposite the Rock of Gibraltar; one of the Pillars of Hercules
+677	accoy	0.0	-	
+678	acedy	0.0	-	
+679	acerb	0.0	adj	sour or bitter in taste
+680	aceta	0.0	-	
+681	acidy	0.0	-	
+682	acmes	0.0	noun	the highest level or degree attainable; the highest stage of development
+683	acned	0.0	adj	(of complexion) blemished by imperfections of the skin
+684	acold	0.0	adj	of persons; feeling cold; - Shakespeare
+685	acuan	0.0	-	
+686	adati	0.0	-	
+687	adjag	0.0	-	
+688	adnex	0.0	-	
+689	adoxa	0.0	-	
+690	adoze	0.0	-	
+691	adrue	0.0	-	
+692	afisr	0.0	noun	an agency focused on ensuring that the United States military attains information superiority; operates worldwide ground sites and an array of airborne reconnaissance and surveillance platforms
+693	afoam	0.0	-	
+694	afret	0.0	-	
+695	afspc	0.0	noun	a command of the United States Air Force that is responsible for defending the United States through its space and intercontinental ballistic missile operations
+696	agaty	0.0	-	
+697	aggry	0.0	-	
+698	aggur	0.0	-	
+699	agism	0.0	noun	discrimination against middle-aged and elderly people
+700	aglee	0.0	-	
+701	agley	0.0	-	
+702	agmas	0.0	-	
+703	agons	0.0	noun	a festivity in ancient Greece at which competitors contended for prizes
+704	agrah	0.0	-	
+705	agral	0.0	-	
+706	aheap	0.0	-	
+707	ahint	0.0	-	
+708	ahwal	0.0	-	
+709	aillt	0.0	-	
+710	airns	0.0	-	
+711	airts	0.0	verb	channel into a new direction
+712	ajaia	0.0	noun	a genus of Platalea
+713	ajava	0.0	-	
+714	akees	0.0	noun	widely cultivated in tropical and subtropical regions for its fragrant flowers and colorful fruits; introduced in Jamaica by William Bligh
+715	akeki	0.0	-	
+716	akule	0.0	-	
+717	akund	0.0	-	
+718	alfet	0.0	-	
+719	algid	0.0	adj	chilly
+720	allod	0.0	-	
+721	aloed	0.0	-	
+722	aloid	0.0	-	
+723	alpid	0.0	-	
+724	amahs	0.0	noun	a woman hired to suckle a child of someone else
+725	amban	0.0	-	
+726	amids	0.0	-	
+727	amnic	0.0	adj	of or related to the amnion or characterized by developing an amnion
+728	ampyx	0.0	-	
+729	amusd	0.0	noun	a doctor's degree in musical arts
+730	anigh	0.0	-	
+731	anlas	0.0	-	
+732	anoas	0.0	noun	small buffalo of the Celebes having small straight horns
+733	anury	0.0	-	
+734	aotes	0.0	-	
+735	apaid	0.0	-	
+736	aperu	0.0	-	
+737	apery	0.0	noun	the act of mimicking; imitative behavior
+738	apism	0.0	-	
+739	apoda	0.0	-	
+740	apout	0.0	-	
+741	appet	0.0	-	
+742	araua	0.0	-	
+743	ardri	0.0	-	
+744	areae	0.0	-	
+745	arear	0.0	-	
+746	areic	0.0	-	
+747	argid	0.0	-	
+748	armet	0.0	noun	a medieval helmet with a visor and a neck guard
+749	armil	0.0	-	
+750	arnut	0.0	-	
+751	arsyl	0.0	-	
+752	aruke	0.0	-	
+753	arulo	0.0	noun	an artificial language intended for international use as an auxiliary language
+754	arvos	0.0	-	
+755	aryls	0.0	-	
+756	ascry	0.0	-	
+757	askoi	0.0	-	
+758	aslop	0.0	-	
+759	asoak	0.0	-	
+760	aswim	0.0	-	
+761	atilt	0.0	adj	departing or being caused to depart from the true vertical or horizontal
+762	atmid	0.0	-	
+763	atule	0.0	-	
+764	atypy	0.0	-	
+765	aueto	0.0	-	
+766	aulae	0.0	-	
+767	auloi	0.0	-	
+768	aumil	0.0	-	
+769	awaft	0.0	-	
+770	awane	0.0	-	
+771	aweel	0.0	-	
+772	aweto	0.0	-	
+773	awhir	0.0	-	
+774	awned	0.0	adj	having awns i.e. bristlelike or hairlike appendages on the flowering parts of some cereals and grasses
+775	awner	0.0	-	
+776	axoid	0.0	-	
+777	ayins	0.0	noun	the 16th letter of the Hebrew alphabet
+778	aylet	0.0	-	
+779	ayond	0.0	-	
+780	ayont	0.0	-	
+781	azlon	0.0	-	
+782	azofy	0.0	-	
+783	azons	0.0	-	
+784	azoxy	0.0	-	
+785	azyme	0.0	-	
+786	baaed	0.0	verb	cry plaintively
+787	bacao	0.0	-	
+788	baffs	0.0	-	
+789	bagdi	0.0	-	
+790	baioc	0.0	-	
+791	bajri	0.0	-	
+792	balei	0.0	-	
+793	balow	0.0	-	
+794	banig	0.0	-	
+795	baroi	0.0	-	
+796	batad	0.0	-	
+797	bauno	0.0	-	
+798	baure	0.0	-	
+799	bawra	0.0	-	
+800	bayal	0.0	-	
+801	bebog	0.0	-	
+802	becry	0.0	-	
+803	becut	0.0	-	
+804	bedad	0.0	-	
+805	beday	0.0	-	
+806	bedew	0.0	verb	cover with drops of dew or as with dew
+807	bedip	0.0	-	
+808	bedye	0.0	-	
+809	befog	0.0	verb	make less visible or unclear
+810	befop	0.0	-	
+811	beice	0.0	-	
+812	beigy	0.0	-	
+813	bejel	0.0	-	
+814	bejig	0.0	-	
+815	bemas	0.0	noun	area around the altar of a church for the clergy and choir; often enclosed by a lattice or railing
+816	bemat	0.0	-	
+817	beode	0.0	-	
+818	bepaw	0.0	-	
+819	bepun	0.0	-	
+820	bespy	0.0	-	
+821	betag	0.0	-	
+822	bevue	0.0	-	
+823	bewet	0.0	-	
+824	bhili	0.0	-	
+825	bhuts	0.0	-	
+826	bices	0.0	-	
+827	bifer	0.0	-	
+828	bihai	0.0	-	
+829	biham	0.0	-	
+830	bikol	0.0	-	
+831	bilch	0.0	-	
+832	bilks	0.0	verb	cheat somebody out of what is due, especially money
+833	bimli	0.0	noun	valuable fiber plant of East Indies now widespread in cultivation
+834	birle	0.0	verb	cause a floating log to rotate by treading
+835	birny	0.0	-	
+836	birrs	0.0	noun	the basic unit of money in Ethiopia; equal to 100 cents
+837	biune	0.0	-	
+838	blibe	0.0	-	
+839	boann	0.0	noun	Celtic goddess; mother of Angus Og
+840	bocoy	0.0	-	
+841	boffs	0.0	-	
+842	boist	0.0	-	
+843	bokom	0.0	-	
+844	boryl	0.0	-	
+845	bosks	0.0	noun	a small wooded area
+846	botel	0.0	-	
+847	bowet	0.0	-	
+848	bozal	0.0	-	
+849	brool	0.0	-	
+850	brosy	0.0	-	
+851	buaze	0.0	-	
+852	buhls	0.0	noun	an inlaid furniture decoration; tortoiseshell and yellow and white metal form scrolls in cabinetwork
+853	buhrs	0.0	-	
+854	bulse	0.0	-	
+855	bumfs	0.0	noun	reading materials (documents, written information) that you must read and deal with but that you think are extremely boring
+856	bumph	0.0	noun	reading materials (documents, written information) that you must read and deal with but that you think are extremely boring
+857	burao	0.0	-	
+858	burut	0.0	-	
+859	bussu	0.0	-	
+860	butat	0.0	noun	100 bututs equal 1 dalasi in Gambia
+861	butyn	0.0	-	
+862	butyr	0.0	-	
+863	byous	0.0	-	
+864	byrls	0.0	-	
+865	bysen	0.0	-	
+866	caaba	0.0	noun	(Islam) a black stone building in Mecca that is shaped like a cube and that is the most sacred Muslim pilgrim shrine; believed to have been given by Gabriel to Abraham; Muslims turn in its direction when praying
+867	cabda	0.0	-	
+868	cabio	0.0	-	
+869	cacur	0.0	-	
+870	cadgy	0.0	-	
+871	cadra	0.0	noun	a genus of Pyralidae
+872	caffs	0.0	noun	informal British term for a cafe
+873	cafiz	0.0	-	
+874	cahiz	0.0	-	
+875	caoba	0.0	-	
+876	caphs	0.0	-	
+877	cauma	0.0	-	
+878	cawky	0.0	-	
+879	ccoya	0.0	-	
+880	cebid	0.0	-	
+881	cebil	0.0	-	
+882	cebur	0.0	-	
+883	cerer	0.0	-	
+884	certy	0.0	-	
+885	ceryl	0.0	-	
+886	cetid	0.0	-	
+887	chirm	0.0	-	
+888	choil	0.0	-	
+889	chuje	0.0	-	
+890	chyak	0.0	-	
+891	cibol	0.0	-	
+892	cigua	0.0	-	
+893	cinct	0.0	-	
+894	clite	0.0	-	
+895	cloam	0.0	-	
+896	cloit	0.0	-	
+897	clomb	0.0	-	
+898	clxxv	0.0	adj	being five more than one hundred seventy
+899	clyer	0.0	-	
+900	cnida	0.0	-	
+901	coact	0.0	verb	act together, as of organisms
+902	coaid	0.0	-	
+903	coapt	0.0	verb	cause to adhere
+904	coarb	0.0	-	
+905	coaxy	0.0	-	
+906	cocle	0.0	-	
+907	codol	0.0	-	
+908	cogue	0.0	-	
+909	cohoe	0.0	noun	fatty pinkish flesh of small salmon caught in the Pacific and Great Lakes
+910	cohol	0.0	-	
+911	cohos	0.0	noun	fatty pinkish flesh of small salmon caught in the Pacific and Great Lakes
+912	coign	0.0	noun	expandable metal or wooden wedge used by printers to lock up a form within a chase
+913	coirs	0.0	noun	stiff coarse fiber from the outer husk of a coconut
+914	comid	0.0	-	
+915	conoy	0.0	noun	a member of an Algonquian people formerly living in Maryland between Chesapeake Bay and the Potomac river; allies of the Nanticoke people
+916	cooer	0.0	-	
+917	coofs	0.0	-	
+918	copis	0.0	-	
+919	coroa	0.0	-	
+920	coses	0.0	noun	ratio of the adjacent side to the hypotenuse of a right-angled triangle
+921	cothy	0.0	-	
+922	couma	0.0	-	
+923	coyed	0.0	-	
+924	cozes	0.0	-	
+925	criey	0.0	-	
+926	ctene	0.0	noun	a locomotor organ consisting of a row of strong cilia whose bases are fused
+927	cujam	0.0	-	
+928	culch	0.0	-	
+929	culmy	0.0	-	
+930	cumal	0.0	-	
+931	cumay	0.0	-	
+932	cumic	0.0	-	
+933	cumol	0.0	-	
+934	cumyl	0.0	-	
+935	cunas	0.0	-	
+936	cunye	0.0	-	
+937	cunza	0.0	-	
+938	cupel	0.0	noun	a small porous bowl made of bone ash used in assaying to separate precious metals from e.g. lead
+939	curin	0.0	-	
+940	curns	0.0	-	
+941	currs	0.0	-	
+942	cusec	0.0	-	
+943	cusie	0.0	-	
+944	cusks	0.0	noun	the lean flesh of a cod-like fish of North Atlantic waters
+945	cutin	0.0	noun	(biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids
+946	cxxxv	0.0	adj	being five more than one hundred thirty
+947	cyath	0.0	-	
+948	cypre	0.0	noun	large tropical American tree of the genus Cordia grown for its abundant creamy white flowers and valuable wood
+949	cytol	0.0	noun	the protoplasm of a cell excluding the nucleus; is full of proteins that control cell metabolism
+950	dafla	0.0	noun	little known Kamarupan languages
+951	dauby	0.0	-	
+952	deair	0.0	-	
+953	defat	0.0	verb	remove the fat from
+954	deils	0.0	-	
+955	deink	0.0	-	
+956	deled	0.0	-	
+957	demal	0.0	-	
+958	depoh	0.0	-	
+959	desyl	0.0	-	
+960	detax	0.0	-	
+961	detin	0.0	-	
+962	dewax	0.0	-	
+963	dhawa	0.0	noun	an Indian tree of the family Combretaceae that is a source of timber and gum
+964	dhuti	0.0	-	
+965	dhyal	0.0	-	
+966	diact	0.0	-	
+967	diamb	0.0	-	
+968	dicty	0.0	-	
+969	didym	0.0	-	
+970	dieri	0.0	-	
+971	difda	0.0	-	
+972	dirca	0.0	noun	deciduous shrub of North America: leatherwood
+973	dirls	0.0	-	
+974	diter	0.0	-	
+975	doits	0.0	-	
+976	dompt	0.0	-	
+977	dopas	0.0	noun	amino acid that is formed in the liver and converted into dopamine in the brain
+978	dotal	0.0	-	
+979	douar	0.0	-	
+980	dowed	0.0	-	
+981	dramm	0.0	-	
+982	drogh	0.0	-	
+983	drovy	0.0	-	
+984	duhat	0.0	-	
+985	duits	0.0	-	
+986	dukhn	0.0	-	
+987	duler	0.0	-	
+988	dumky	0.0	-	
+989	dunts	0.0	-	
+990	dured	0.0	-	
+991	durns	0.0	-	
+992	duryl	0.0	-	
+993	dwyka	0.0	-	
+994	dykey	0.0	-	
+995	eagre	0.0	noun	a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+996	eaved	0.0	-	
+997	ebbet	0.0	-	
+998	echea	0.0	-	
+999	eched	0.0	-	
+1000	ecize	0.0	-	
+1001	ecoid	0.0	-	
+1002	ectad	0.0	-	
+1003	ediya	0.0	-	
+1004	educt	0.0	-	
+1005	eibit	0.0	noun	a unit of information equal to 1024 pebibits or 2^60 bits
+1006	eimak	0.0	-	
+1007	ekaha	0.0	-	
+1008	elaps	0.0	-	
+1009	eleut	0.0	-	
+1010	emeus	0.0	-	
+1011	empeo	0.0	-	
+1012	emyde	0.0	-	
+1013	emyds	0.0	-	
+1014	enapt	0.0	-	
+1015	enarm	0.0	-	
+1016	enate	0.0	noun	one related on the mother's side
+1017	encup	0.0	-	
+1018	endew	0.0	-	
+1019	enets	0.0	noun	the Uralic language spoken by the Yeniseian
+1020	enhat	0.0	-	
+1021	enoil	0.0	-	
+1022	enows	0.0	-	
+1023	enrut	0.0	-	
+1024	entad	0.0	-	
+1025	ental	0.0	-	
+1026	entsy	0.0	noun	the Uralic language spoken by the Yeniseian
+1027	ephor	0.0	-	
+1028	epopt	0.0	-	
+1029	epulo	0.0	-	
+1030	erava	0.0	-	
+1031	erbia	0.0	-	
+1032	erept	0.0	-	
+1033	erses	0.0	noun	any of several related languages of the Celts in Ireland and Scotland
+1034	erugo	0.0	-	
+1035	ervum	0.0	-	
+1036	ethid	0.0	-	
+1037	ettle	0.0	-	
+1038	etuis	0.0	noun	small ornamental ladies' bag for small articles
+1039	etwee	0.0	-	
+1040	etyma	0.0	noun	a simple form inferred as the common basis from which related words in several languages can be derived by linguistic processes
+1041	eupad	0.0	-	
+1042	ewery	0.0	-	
+1043	exine	0.0	-	
+1044	exite	0.0	-	
+1045	exlex	0.0	-	
+1046	exody	0.0	-	
+1047	eyoty	0.0	-	
+1048	eyrir	0.0	noun	100 aurar equal 1 krona in Iceland
+1049	fains	0.0	-	
+1050	fanal	0.0	-	
+1051	fanam	0.0	-	
+1052	fanwe	0.0	-	
+1053	farci	0.0	-	
+1054	fardh	0.0	-	
+1055	farle	0.0	-	
+1056	fauld	0.0	noun	a piece of armor plate below the breastplate
+1057	feaze	0.0	-	
+1058	fecks	0.0	-	
+1059	feere	0.0	-	
+1060	femes	0.0	-	
+1061	femic	0.0	-	
+1062	feods	0.0	-	
+1063	feoff	0.0	noun	a piece of land held under the feudal system
+1064	fetas	0.0	-	
+1065	feuar	0.0	-	
+1066	feued	0.0	-	
+1067	feyly	0.0	-	
+1068	fhlmc	0.0	noun	a corporation authorized by Congress to provide a secondary market for residential mortgages
+1069	fiard	0.0	-	
+1070	fibry	0.0	-	
+1071	ficin	0.0	-	
+1072	fidac	0.0	-	
+1073	fifed	0.0	-	
+1074	fikie	0.0	-	
+1075	fingu	0.0	-	
+1076	firca	0.0	-	
+1077	firns	0.0	-	
+1078	fiscs	0.0	noun	a state treasury or exchequer or a royal treasury; originally the public treasury of Rome or the emperor's private purse
+1079	flews	0.0	-	
+1080	flued	0.0	-	
+1081	fluey	0.0	-	
+1082	flusk	0.0	-	
+1083	fluyt	0.0	-	
+1084	fogon	0.0	-	
+1085	fohns	0.0	noun	a warm dry wind that blows down the northern slopes of the Alps
+1086	foism	0.0	-	
+1087	fonly	0.0	-	
+1088	fotui	0.0	-	
+1089	foute	0.0	-	
+1090	fraik	0.0	-	
+1091	frory	0.0	-	
+1092	frows	0.0	-	
+1093	frowy	0.0	-	
+1094	fuder	0.0	-	
+1095	fugle	0.0	-	
+1096	fumet	0.0	-	
+1097	funje	0.0	-	
+1098	fuqra	0.0	noun	an Islamic terrorist group organized in the 1980s; seeks to purify Islam through violence; the cells in North America and the Caribbean insulate themselves from Western culture and will even attack other Muslims who they regard as heretics
+1099	furil	0.0	-	
+1100	furyl	0.0	-	
+1101	futwa	0.0	-	
+1102	fyces	0.0	-	
+1103	fykes	0.0	-	
+1104	fytte	0.0	-	
+1105	gadid	0.0	-	
+1106	gagor	0.0	-	
+1107	gansy	0.0	-	
+1108	gareh	0.0	-	
+1109	gasts	0.0	-	
+1110	gauby	0.0	-	
+1111	gawps	0.0	verb	look with amazement; look stupidly
+1112	gawsy	0.0	-	
+1113	gease	0.0	-	
+1114	gebur	0.0	-	
+1115	gemel	0.0	-	
+1116	gemot	0.0	-	
+1117	gemul	0.0	-	
+1118	gerea	0.0	noun	small genus of hairy herbs with yellow flowers
+1119	getah	0.0	-	
+1120	getic	0.0	-	
+1121	geums	0.0	noun	avens
+1122	gidar	0.0	noun	a Chadic language spoken south of Lake Chad
+1123	gighe	0.0	-	
+1124	gipon	0.0	-	
+1125	girba	0.0	-	
+1126	girns	0.0	-	
+1127	girny	0.0	-	
+1128	girru	0.0	noun	the Babylonian god of fire; often invoked in incantations against sorcery
+1129	girse	0.0	-	
+1130	glaik	0.0	-	
+1131	glaky	0.0	-	
+1132	glede	0.0	-	
+1133	glias	0.0	noun	sustentacular tissue that surrounds and supports neurons in the central nervous system; glial and neural cells together compose the tissue of the central nervous system
+1134	gloea	0.0	-	
+1135	gloms	0.0	verb	take by theft
+1136	glout	0.0	-	
+1137	gnars	0.0	-	
+1138	gnawn	0.0	verb	bite or chew on with the teeth
+1139	goave	0.0	-	
+1140	gobia	0.0	-	
+1141	gobio	0.0	noun	true gudgeons
+1142	goety	0.0	-	
+1143	goloe	0.0	-	
+1144	gonef	0.0	-	
+1145	gonid	0.0	-	
+1146	gonif	0.0	noun	(Yiddish) a thief or dishonest person or scoundrel (often used as a general term of abuse)
+1147	gonof	0.0	-	
+1148	gorer	0.0	-	
+1149	gorsy	0.0	-	
+1150	gowks	0.0	-	
+1151	gride	0.0	-	
+1152	gript	0.0	verb	hold fast or firmly
+1153	grouf	0.0	-	
+1154	gruis	0.0	-	
+1155	guans	0.0	noun	any of several large turkey-like game birds of the family Cracidae; native to jungles of tropical America; resembling the curassows and valued as food
+1156	guars	0.0	noun	drought-tolerant herb grown for forage and for its seed which yield a gum used as a thickening agent or sizing material
+1157	guasa	0.0	-	
+1158	gulae	0.0	-	
+1159	gumly	0.0	-	
+1160	guric	0.0	-	
+1161	gybed	0.0	verb	shift from one side of the ship to the other
+1162	gybes	0.0	verb	shift from one side of the ship to the other
+1163	gygis	0.0	-	
+1164	gymel	0.0	-	
+1165	gynic	0.0	-	
+1166	gyppo	0.0	-	
+1167	gyred	0.0	-	
+1168	gyric	0.0	-	
+1169	gyved	0.0	-	
+1170	haafs	0.0	-	
+1171	hajes	0.0	-	
+1172	halch	0.0	-	
+1173	halms	0.0	noun	stems of beans and peas and potatoes and grasses collectively as used for thatching and bedding
+1174	haloa	0.0	-	
+1175	hasps	0.0	noun	a fastener for a door or lid; a hinged metal plate is fitted over a staple and is locked with a pin or padlock
+1176	hauld	0.0	-	
+1177	haulm	0.0	noun	stems of beans and peas and potatoes and grasses collectively as used for thatching and bedding
+1178	hayey	0.0	-	
+1179	hecte	0.0	-	
+1180	hefts	0.0	noun	the property of being large in mass
+1181	heils	0.0	-	
+1182	hemic	0.0	adj	relating to or containing or affecting blood
+1183	hempy	0.0	-	
+1184	hepar	0.0	-	
+1185	herls	0.0	-	
+1186	heuau	0.0	-	
+1187	hexad	0.0	noun	the cardinal number that is the sum of five and one
+1188	hiate	0.0	-	
+1189	hilch	0.0	-	
+1190	hinau	0.0	-	
+1191	hirse	0.0	-	
+1192	hists	0.0	-	
+1193	hithe	0.0	-	
+1194	hoars	0.0	noun	ice crystals forming a white deposit (especially on objects outside)
+1195	hoast	0.0	-	
+1196	hodur	0.0	noun	(Norse mythology) a blind god; misled by Loki, he kills his brother Balder by throwing a shaft of mistletoe
+1197	hoers	0.0	-	
+1198	hoked	0.0	-	
+1199	holks	0.0	-	
+1200	howff	0.0	-	
+1201	howfs	0.0	-	
+1202	hsian	0.0	noun	a city of central China; capital of ancient Chinese empire 221-206 BC
+1203	huave	0.0	-	
+1204	hurds	0.0	-	
+1205	hyleg	0.0	-	
+1206	ibota	0.0	-	
+1207	icica	0.0	-	
+1208	ictic	0.0	adj	of or relating to a seizure or convulsion
+1209	idaic	0.0	-	
+1210	iddat	0.0	-	
+1211	iddio	0.0	-	
+1212	idgah	0.0	-	
+1213	idism	0.0	-	
+1214	idist	0.0	-	
+1215	idite	0.0	-	
+1216	idose	0.0	-	
+1217	idryl	0.0	-	
+1218	idyls	0.0	noun	a musical composition that evokes rural life
+1219	ierne	0.0	-	
+1220	igdyr	0.0	-	
+1221	ihlat	0.0	-	
+1222	ijore	0.0	-	
+1223	ilial	0.0	-	
+1224	iliau	0.0	-	
+1225	illth	0.0	-	
+1226	ilxxx	0.0	adj	being nine more than seventy
+1227	imaum	0.0	noun	(Islam) the man who leads prayers in a mosque; for Shiites an imam is a recognized authority on Islamic theology and law and a spiritual guide
+1228	imids	0.0	-	
+1229	immit	0.0	-	
+1230	imped	0.0	-	
+1231	impen	0.0	-	
+1232	impot	0.0	-	
+1233	incut	0.0	-	
+1234	indow	0.0	-	
+1235	inerm	0.0	-	
+1236	infit	0.0	-	
+1237	inket	0.0	-	
+1238	inned	0.0	-	
+1239	innet	0.0	-	
+1240	inone	0.0	-	
+1241	inorb	0.0	-	
+1242	inrub	0.0	-	
+1243	inrun	0.0	-	
+1244	intue	0.0	-	
+1245	inurn	0.0	-	
+1246	iodid	0.0	-	
+1247	iodol	0.0	-	
+1248	isbas	0.0	-	
+1249	iseum	0.0	-	
+1250	isled	0.0	-	
+1251	islot	0.0	-	
+1252	istle	0.0	-	
+1253	itcze	0.0	-	
+1254	itemy	0.0	-	
+1255	ixias	0.0	noun	a monocotyledonous genus of the family Iridaceae
+1256	ixtle	0.0	-	
+1257	iyyar	0.0	noun	the eighth month of the civil year; the second month of the ecclesiastical year (in April and May)
+1258	iztle	0.0	-	
+1259	jabia	0.0	-	
+1260	japed	0.0	-	
+1261	japyx	0.0	-	
+1262	jaups	0.0	-	
+1263	jhool	0.0	-	
+1264	jiffs	0.0	-	
+1265	jiqui	0.0	noun	Cuban timber tree with hard wood very resistant to moisture
+1266	jisms	0.0	-	
+1267	jitro	0.0	-	
+1268	jocum	0.0	-	
+1269	joual	0.0	-	
+1270	jouks	0.0	-	
+1271	jowed	0.0	-	
+1272	jowpy	0.0	-	
+1273	jufti	0.0	-	
+1274	jugum	0.0	-	
+1275	jutic	0.0	-	
+1276	kadmi	0.0	-	
+1277	kaifs	0.0	-	
+1278	kamet	0.0	noun	a mountain in the Himalayas in northern India (25,450 feet high)
+1279	kanaf	0.0	noun	valuable fiber plant of East Indies now widespread in cultivation
+1280	kaneh	0.0	-	
+1281	kaphs	0.0	noun	the 11th letter of the Hebrew alphabet
+1282	kbars	0.0	-	
+1283	kefti	0.0	-	
+1284	keleh	0.0	-	
+1285	kelep	0.0	-	
+1286	ketol	0.0	-	
+1287	kevil	0.0	-	
+1288	kexes	0.0	-	
+1289	khafs	0.0	-	
+1290	khaph	0.0	-	
+1291	khets	0.0	-	
+1292	khios	0.0	noun	an island in the Aegean Sea off the west coast of Turkey; belongs to Greece
+1293	khond	0.0	-	
+1294	khuai	0.0	-	
+1295	khvat	0.0	-	
+1296	kiaat	0.0	noun	deciduous South African tree having large odd-pinnate leaves and profuse fragrant orange-yellow flowers; yields a red juice and heavy strong durable wood
+1297	kibei	0.0	-	
+1298	kibit	0.0	noun	a unit of information equal to 1024 bits
+1299	kibla	0.0	-	
+1300	kieye	0.0	-	
+1301	kioea	0.0	-	
+1302	kitul	0.0	noun	fishtail palm of India to Malay Peninsula; sap yields a brown sugar (jaggery) and trunk pith yields sago
+1303	knars	0.0	-	
+1304	knawe	0.0	noun	widely distributed low-growing Eurasian herb having narrow leaves and inconspicuous green flowers
+1305	knezi	0.0	-	
+1306	knosp	0.0	-	
+1307	knurs	0.0	-	
+1308	kodro	0.0	-	
+1309	kogia	0.0	noun	pygmy sperm whales
+1310	kohua	0.0	-	
+1311	kokra	0.0	-	
+1312	kophs	0.0	-	
+1313	korec	0.0	-	
+1314	koroa	0.0	-	
+1315	kosin	0.0	-	
+1316	kovna	0.0	noun	a city in central Lithuania
+1317	krepi	0.0	-	
+1318	kulun	0.0	noun	the capital and largest city of Mongolia
+1319	kumni	0.0	-	
+1320	kumys	0.0	-	
+1321	kurku	0.0	-	
+1322	kurux	0.0	noun	a Dravidian language spoken in eastern India
+1323	kusso	0.0	-	
+1324	kwapa	0.0	-	
+1325	kyaks	0.0	-	
+1326	kyars	0.0	-	
+1327	kyyiv	0.0	noun	capital and largest city of the Ukraine; a major manufacturing and transportation center
+1328	laded	0.0	verb	remove with or as if with a ladle
+1329	lamut	0.0	-	
+1330	lanum	0.0	-	
+1331	lapon	0.0	-	
+1332	latax	0.0	-	
+1333	laved	0.0	verb	wash or flow against
+1334	ledol	0.0	-	
+1335	legua	0.0	-	
+1336	lehrs	0.0	-	
+1337	lesgh	0.0	-	
+1338	leuds	0.0	-	
+1339	lieue	0.0	-	
+1340	limmu	0.0	-	
+1341	limns	0.0	verb	trace the shape of
+1342	linje	0.0	-	
+1343	loasa	0.0	noun	any of various perennial South American plants of the genus Loasa having stinging hairs and showy white or yellow or reddish-orange flowers
+1344	lokao	0.0	-	
+1345	lovoa	0.0	noun	genus of African timber trees
+1346	lozal	0.0	noun	diuretic (trade name Lozal) used in the treatment of hypertension
+1347	luged	0.0	verb	move along on a luge or toboggan
+1348	lupid	0.0	-	
+1349	lurer	0.0	-	
+1350	lutao	0.0	-	
+1351	luyia	0.0	noun	a Bantu language
+1352	lweis	0.0	noun	100 lwei equal 1 kwanza in Angola
+1353	lyard	0.0	-	
+1354	lyery	0.0	-	
+1355	makuk	0.0	-	
+1356	mawed	0.0	-	
+1357	mawky	0.0	-	
+1358	maynt	0.0	-	
+1359	mbuba	0.0	-	
+1360	mecon	0.0	-	
+1361	meous	0.0	-	
+1362	miqra	0.0	-	
+1363	misdo	0.0	verb	do wrongly or improperly
+1364	misgo	0.0	-	
+1365	mitua	0.0	-	
+1366	moils	0.0	verb	work hard
+1367	moism	0.0	-	
+1368	moity	0.0	-	
+1369	molpe	0.0	-	
+1370	molva	0.0	noun	ling
+1371	mopla	0.0	-	
+1372	mordv	0.0	-	
+1373	mosgu	0.0	-	
+1374	mosks	0.0	-	
+1375	mosur	0.0	-	
+1376	moted	0.0	-	
+1377	moues	0.0	noun	a disdainful grimace
+1378	mowch	0.0	-	
+1379	mucic	0.0	-	
+1380	mucid	0.0	-	
+1381	mucro	0.0	-	
+1382	mudee	0.0	-	
+1383	mudir	0.0	-	
+1384	muist	0.0	-	
+1385	mujik	0.0	noun	a Russian peasant (especially prior to 1917)
+1386	mukri	0.0	-	
+1387	mulct	0.0	noun	money extracted as a penalty
+1388	muled	0.0	-	
+1389	mulse	0.0	-	
+1390	mulwi	0.0	noun	a Chadic language spoken south of Lake Chad
+1391	mumms	0.0	-	
+1392	musal	0.0	-	
+1393	musgu	0.0	noun	a Chadic language spoken south of Lake Chad
+1394	mynas	0.0	noun	tropical Asian starlings
+1395	myoid	0.0	adj	resembling muscle
+1396	myopy	0.0	-	
+1397	nabak	0.0	-	
+1398	nacry	0.0	-	
+1399	nafud	0.0	noun	a desert in northern Saudi Arabia that is noted for its red sand and violent winds
+1400	naqua	0.0	noun	diuretic drug (trade name Naqua) used to treat hypertension
+1401	naunt	0.0	-	
+1402	navew	0.0	-	
+1403	neifs	0.0	-	
+1404	nejdi	0.0	-	
+1405	neper	0.0	-	
+1406	neuks	0.0	-	
+1407	neums	0.0	-	
+1408	ngapi	0.0	-	
+1409	ngoko	0.0	-	
+1410	ngwee	0.0	noun	100 ngwee equal 1 kwacha in Zambia
+1411	nided	0.0	-	
+1412	nific	0.0	-	
+1413	nigua	0.0	-	
+1414	niota	0.0	-	
+1415	njave	0.0	-	
+1416	nomoi	0.0	-	
+1417	nowts	0.0	-	
+1418	nucin	0.0	-	
+1419	nuder	0.0	adj	completely unclothed
+1420	nudzh	0.0	-	
+1421	numda	0.0	-	
+1422	numud	0.0	-	
+1423	nuque	0.0	-	
+1424	oadal	0.0	-	
+1425	oaric	0.0	-	
+1426	oasts	0.0	noun	a kiln for drying hops
+1427	oaves	0.0	noun	an awkward stupid person
+1428	obole	0.0	-	
+1429	ochna	0.0	noun	type genus of Ochnaceae; evergreen trees and shrubs of Old World tropics
+1430	ocque	0.0	-	
+1431	ocrea	0.0	-	
+1432	octad	0.0	noun	the cardinal number that is the sum of seven and one
+1433	octic	0.0	-	
+1434	ocuby	0.0	-	
+1435	odyls	0.0	-	
+1436	oecus	0.0	-	
+1437	oenin	0.0	-	
+1438	ofays	0.0	-	
+1439	oftly	0.0	-	
+1440	ogams	0.0	-	
+1441	ogees	0.0	noun	a molding that (in section) has the shape of an S with the convex part above and the concave part below
+1442	ogmic	0.0	-	
+1443	ohelo	0.0	-	
+1444	ohias	0.0	-	
+1445	ohing	0.0	-	
+1446	okehs	0.0	noun	an endorsement
+1447	okras	0.0	noun	long green edible beaked pods of the okra plant
+1448	omlah	0.0	-	
+1449	oncia	0.0	-	
+1450	oncin	0.0	-	
+1451	onkos	0.0	-	
+1452	onmun	0.0	-	
+1453	ontal	0.0	-	
+1454	onymy	0.0	-	
+1455	oopak	0.0	-	
+1456	oopod	0.0	-	
+1457	opahs	0.0	noun	large elliptical brightly colored deep-sea fish of Atlantic and Pacific and Mediterranean
+1458	optez	0.0	noun	an artificial language
+1459	orary	0.0	-	
+1460	orcin	0.0	-	
+1461	orgic	0.0	-	
+1462	orlet	0.0	-	
+1463	orsel	0.0	-	
+1464	ortet	0.0	-	
+1465	ortol	0.0	-	
+1466	ortyx	0.0	-	
+1467	orzos	0.0	noun	pasta shaped like pearls of barley; frequently prepared with lamb in Greek cuisine
+1468	oscin	0.0	-	
+1469	oshac	0.0	-	
+1470	osone	0.0	-	
+1471	ossal	0.0	-	
+1472	othin	0.0	-	
+1473	otkon	0.0	-	
+1474	otyak	0.0	-	
+1475	ouabe	0.0	-	
+1476	oukia	0.0	-	
+1477	oulap	0.0	-	
+1478	ouphs	0.0	-	
+1479	outby	0.0	-	
+1480	outly	0.0	-	
+1481	ouzos	0.0	noun	a Greek liquor flavored with anise
+1482	ovant	0.0	-	
+1483	ovile	0.0	-	
+1484	ovism	0.0	-	
+1485	ovist	0.0	-	
+1486	ovoli	0.0	noun	a convex molding having a cross section in the form of a quarter of a circle or of an ellipse
+1487	ovral	0.0	noun	trade name for an oral contraceptive containing estradiol and norgestrel
+1488	ovula	0.0	-	
+1489	owght	0.0	-	
+1490	owsen	0.0	-	
+1491	owser	0.0	-	
+1492	oxboy	0.0	-	
+1493	oxfly	0.0	-	
+1494	oxids	0.0	-	
+1495	oxims	0.0	-	
+1496	oyers	0.0	-	
+1497	pabir	0.0	noun	a Chadic language spoken south of Lake Chad
+1498	pacht	0.0	-	
+1499	palch	0.0	-	
+1500	parao	0.0	-	
+1501	pareu	0.0	-	
+1502	pases	0.0	noun	(ballet) a step in dancing (especially in classical ballet)
+1503	paxes	0.0	noun	(Roman Catholic Church) a greeting signifying Christian love for those assisting at the Eucharist
+1504	pdflp	0.0	noun	a Marxist-Leninist group that believes Palestinian goals can only be achieved by revolutionary change
+1505	peage	0.0	-	
+1506	peags	0.0	noun	small cylindrical beads made from polished shells and fashioned into strings or belts; used by certain Native American peoples as jewelry or currency
+1507	pedum	0.0	-	
+1508	peeoy	0.0	-	
+1509	peise	0.0	-	
+1510	pesah	0.0	noun	(Judaism) a Jewish festival (traditionally 8 days from Nissan 15) celebrating the exodus of the Israelites from Egypt
+1511	peuhl	0.0	-	
+1512	phaca	0.0	-	
+1513	pheon	0.0	-	
+1514	phons	0.0	noun	a unit of subjective loudness
+1515	phpht	0.0	-	
+1516	phuts	0.0	-	
+1517	pians	0.0	-	
+1518	pibal	0.0	-	
+1519	pibit	0.0	noun	a unit of information equal to 1024 tebibits or 2^50 bits
+1520	picae	0.0	-	
+1521	pical	0.0	-	
+1522	picra	0.0	-	
+1523	piend	0.0	-	
+1524	pikel	0.0	-	
+1525	pilmy	0.0	-	
+1526	pinic	0.0	-	
+1527	pioxe	0.0	-	
+1528	pipul	0.0	noun	fig tree of India noted for great size and longevity; lacks the prop roots of the banyan; regarded as sacred by Buddhists
+1529	pirns	0.0	-	
+1530	pirny	0.0	-	
+1531	pleny	0.0	-	
+1532	ploat	0.0	-	
+1533	podal	0.0	-	
+1534	poind	0.0	-	
+1535	poove	0.0	noun	offensive term for an openly homosexual man
+1536	poral	0.0	-	
+1537	porer	0.0	-	
+1538	poxes	0.0	noun	a common venereal disease caused by the treponema pallidum spirochete; symptoms change through progressive stages; can be congenital (transmitted through the placenta)
+1539	praam	0.0	-	
+1540	prahu	0.0	-	
+1541	pridy	0.0	-	
+1542	prore	0.0	-	
+1543	prunt	0.0	-	
+1544	pruta	0.0	-	
+1545	pshav	0.0	-	
+1546	psoae	0.0	-	
+1547	psoai	0.0	-	
+1548	psora	0.0	-	
+1549	ptyas	0.0	noun	Asian rat snakes
+1550	pubal	0.0	-	
+1551	pudic	0.0	-	
+1552	puist	0.0	-	
+1553	puled	0.0	verb	cry weakly or softly
+1554	punan	0.0	-	
+1555	punty	0.0	-	
+1556	purau	0.0	noun	shrubby tree widely distributed along tropical shores; yields a light tough wood used for canoe outriggers and a fiber used for cordage and caulk; often cultivated for ornament
+1557	puses	0.0	noun	the tenth month of the Hindu calendar
+1558	putid	0.0	-	
+1559	pygal	0.0	-	
+1560	pyins	0.0	-	
+1561	pylic	0.0	-	
+1562	pyoid	0.0	-	
+1563	pyric	0.0	-	
+1564	qaids	0.0	-	
+1565	qepiq	0.0	noun	100 qepiq equal 1 manat in Azerbaijan
+1566	qophs	0.0	noun	the 19th letter of the Hebrew alphabet
+1567	quata	0.0	-	
+1568	queak	0.0	-	
+1569	quegh	0.0	-	
+1570	queme	0.0	-	
+1571	quirl	0.0	-	
+1572	quitu	0.0	-	
+1573	qurti	0.0	-	
+1574	rabic	0.0	-	
+1575	raiae	0.0	-	
+1576	raias	0.0	-	
+1577	rapic	0.0	-	
+1578	rases	0.0	noun	the network in the reticular formation that serves an alerting or arousal function
+1579	raupo	0.0	-	
+1580	raxes	0.0	-	
+1581	reask	0.0	-	
+1582	rebud	0.0	-	
+1583	redig	0.0	-	
+1584	redry	0.0	-	
+1585	redye	0.0	-	
+1586	regle	0.0	-	
+1587	regur	0.0	noun	a rich black loam of India
+1588	rehoe	0.0	-	
+1589	relap	0.0	-	
+1590	relot	0.0	-	
+1591	remet	0.0	-	
+1592	remop	0.0	-	
+1593	reoil	0.0	-	
+1594	repeg	0.0	-	
+1595	repew	0.0	-	
+1596	repic	0.0	-	
+1597	rerig	0.0	-	
+1598	rerub	0.0	-	
+1599	resaw	0.0	-	
+1600	resex	0.0	-	
+1601	resht	0.0	noun	city in northwestern Iran near the Caspian Sea
+1602	resod	0.0	-	
+1603	resow	0.0	-	
+1604	resup	0.0	-	
+1605	retem	0.0	noun	desert shrub of Syria and Arabia having small white flowers; constitutes the juniper of the Old Testament; sometimes placed in genus Genista
+1606	rethe	0.0	-	
+1607	retia	0.0	noun	a network of intersecting blood vessels or intersecting nerves or intersecting lymph vessels
+1608	rewax	0.0	-	
+1609	rhamn	0.0	-	
+1610	rheae	0.0	-	
+1611	rheic	0.0	-	
+1612	rhoeo	0.0	-	
+1613	rhyta	0.0	-	
+1614	ribat	0.0	-	
+1615	rifer	0.0	adj	most frequent or common
+1616	ripes	0.0	verb	tear or be torn violently
+1617	ripup	0.0	-	
+1618	rocta	0.0	-	
+1619	rohob	0.0	-	
+1620	roist	0.0	-	
+1621	roove	0.0	-	
+1622	rophy	0.0	noun	street names for flunitrazepan
+1623	roral	0.0	-	
+1624	rotge	0.0	-	
+1625	rotls	0.0	noun	a unit of weight used in some Moslem countries near the Mediterranean; varies between one and five pounds
+1626	rotse	0.0	-	
+1627	roues	0.0	noun	a dissolute man in fashionable society
+1628	rowth	0.0	-	
+1629	ruers	0.0	-	
+1630	rutic	0.0	-	
+1631	rutyl	0.0	-	
+1632	rybat	0.0	-	
+1633	rynds	0.0	-	
+1634	ryots	0.0	-	
+1635	sauch	0.0	-	
+1636	sauty	0.0	-	
+1637	sayst	0.0	-	
+1638	scalt	0.0	-	
+1639	scaul	0.0	-	
+1640	scaum	0.0	-	
+1641	scawd	0.0	-	
+1642	scawl	0.0	-	
+1643	sceat	0.0	-	
+1644	scind	0.0	-	
+1645	sciot	0.0	-	
+1646	scoad	0.0	-	
+1647	scobs	0.0	-	
+1648	scolb	0.0	-	
+1649	scouk	0.0	-	
+1650	scrae	0.0	-	
+1651	sculk	0.0	-	
+1652	scuta	0.0	-	
+1653	sehyo	0.0	-	
+1654	seism	0.0	noun	shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity
+1655	semic	0.0	-	
+1656	sepad	0.0	-	
+1657	sepic	0.0	-	
+1658	sequa	0.0	-	
+1659	seugh	0.0	-	
+1660	sexly	0.0	-	
+1661	shaup	0.0	-	
+1662	shilf	0.0	-	
+1663	shisn	0.0	-	
+1664	shluh	0.0	-	
+1665	shoad	0.0	-	
+1666	shorl	0.0	-	
+1667	shote	0.0	noun	a young pig
+1668	shrab	0.0	-	
+1669	shrag	0.0	-	
+1670	shtik	0.0	noun	(Yiddish) a little; a piece
+1671	shuln	0.0	-	
+1672	sicel	0.0	-	
+1673	sices	0.0	verb	urge to attack someone
+1674	sifac	0.0	-	
+1675	sigeh	0.0	noun	a Shiite tradition of temporary marriage permitted in Iran that allows a couple to specify the terms of their relationship; can last from a few minutes to 99 years
+1676	silds	0.0	noun	any of various young herrings (other than brislings) canned as sardines in Norway
+1677	sinhs	0.0	-	
+1678	siped	0.0	verb	drink in sips
+1679	sipid	0.0	-	
+1680	sises	0.0	noun	the cardinal number that is the sum of five and one
+1681	sixmo	0.0	-	
+1682	skean	0.0	-	
+1683	skeeg	0.0	-	
+1684	skegs	0.0	noun	a brace that extends from the rear of the keel to support the rudderpost
+1685	skeif	0.0	-	
+1686	skelf	0.0	-	
+1687	skewl	0.0	-	
+1688	slaky	0.0	-	
+1689	slaum	0.0	-	
+1690	slent	0.0	-	
+1691	slete	0.0	-	
+1692	slich	0.0	-	
+1693	slojd	0.0	-	
+1694	slued	0.0	verb	turn sharply; change direction abruptly
+1695	sluer	0.0	-	
+1696	smaik	0.0	-	
+1697	smsgt	0.0	noun	a senior noncommissioned officer in the Air Force with a rank comparable to master sergeant in the Army
+1698	sneap	0.0	-	
+1699	snirl	0.0	-	
+1700	snyes	0.0	-	
+1701	soget	0.0	-	
+1702	sooey	0.0	-	
+1703	sords	0.0	-	
+1704	sorns	0.0	-	
+1705	sorva	0.0	-	
+1706	sotie	0.0	-	
+1707	sowar	0.0	-	
+1708	sowse	0.0	-	
+1709	sowte	0.0	-	
+1710	spaed	0.0	-	
+1711	spaid	0.0	-	
+1712	spail	0.0	-	
+1713	spait	0.0	-	
+1714	sparm	0.0	-	
+1715	speil	0.0	-	
+1716	speos	0.0	-	
+1717	spiry	0.0	-	
+1718	splet	0.0	-	
+1719	sprew	0.0	-	
+1720	spued	0.0	verb	expel or eject (saliva or phlegm or sputum) from the mouth
+1721	spues	0.0	verb	expel or eject (saliva or phlegm or sputum) from the mouth
+1722	spumy	0.0	adj	emitting or filled with bubbles as from carbonation or fermentation
+1723	spurl	0.0	-	
+1724	sputa	0.0	noun	expectorated matter; saliva mixed with discharges from the respiratory passages; in ancient and medieval physiology it was believed to cause sluggishness
+1725	staia	0.0	-	
+1726	staig	0.0	-	
+1727	staio	0.0	-	
+1728	stauk	0.0	-	
+1729	stchi	0.0	-	
+1730	stied	0.0	-	
+1731	stirp	0.0	-	
+1732	stoae	0.0	-	
+1733	stoai	0.0	-	
+1734	stoas	0.0	-	
+1735	stogy	0.0	noun	a cheap cigar
+1736	stond	0.0	-	
+1737	stowp	0.0	-	
+1738	stulm	0.0	-	
+1739	styca	0.0	-	
+1740	styed	0.0	-	
+1741	stymy	0.0	noun	a situation in golf where an opponent's ball blocks the line between your ball and the hole
+1742	suant	0.0	-	
+1743	sudic	0.0	-	
+1744	suers	0.0	noun	a man who courts a woman
+1745	sughs	0.0	-	
+1746	suist	0.0	-	
+1747	sumph	0.0	-	
+1748	surgy	0.0	-	
+1749	swape	0.0	-	
+1750	swelp	0.0	-	
+1751	swive	0.0	-	
+1752	swoun	0.0	-	
+1753	swure	0.0	-	
+1754	syces	0.0	-	
+1755	sylid	0.0	-	
+1756	tabog	0.0	-	
+1757	tabut	0.0	-	
+1758	tacso	0.0	-	
+1759	tafia	0.0	-	
+1760	tahrs	0.0	-	
+1761	tahua	0.0	-	
+1762	taipi	0.0	-	
+1763	taipo	0.0	-	
+1764	takyr	0.0	-	
+1765	talcs	0.0	noun	a fine grained mineral having a soft soapy feel and consisting of hydrated magnesium silicate; used in a variety of products including talcum powder
+1766	taled	0.0	-	
+1767	tapen	0.0	-	
+1768	tapoa	0.0	-	
+1769	tapul	0.0	-	
+1770	tarve	0.0	-	
+1771	tawgi	0.0	-	
+1772	tawpi	0.0	-	
+1773	taxor	0.0	-	
+1774	tcawi	0.0	-	
+1775	tchwi	0.0	-	
+1776	teaey	0.0	-	
+1777	tecon	0.0	-	
+1778	teest	0.0	-	
+1779	teiid	0.0	noun	tropical New World lizard with a long tail and large rectangular scales on the belly and a long tail
+1780	teind	0.0	-	
+1781	telae	0.0	-	
+1782	telei	0.0	-	
+1783	teloi	0.0	-	
+1784	tepal	0.0	noun	an undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips)
+1785	teths	0.0	noun	the 9th letter of the Hebrew alphabet
+1786	teugh	0.0	-	
+1787	tewed	0.0	-	
+1788	tewel	0.0	-	
+1789	tewly	0.0	-	
+1790	tharf	0.0	-	
+1791	thilk	0.0	-	
+1792	thirl	0.0	-	
+1793	thrap	0.0	-	
+1794	thraw	0.0	-	
+1795	thruv	0.0	-	
+1796	thulr	0.0	-	
+1797	thurt	0.0	-	
+1798	thymy	0.0	-	
+1799	tibbu	0.0	-	
+1800	ticul	0.0	-	
+1801	tigua	0.0	-	
+1802	tipup	0.0	-	
+1803	tirls	0.0	-	
+1804	tmema	0.0	-	
+1805	toped	0.0	verb	drink excessive amounts of alcohol; be an alcoholic
+1806	topsl	0.0	-	
+1807	tould	0.0	-	
+1808	toupe	0.0	noun	a small hairpiece to cover partial baldness
+1809	tozee	0.0	-	
+1810	treey	0.0	-	
+1811	trest	0.0	-	
+1812	trior	0.0	-	
+1813	troft	0.0	-	
+1814	trubu	0.0	-	
+1815	trugs	0.0	-	
+1816	tryma	0.0	-	
+1817	trypa	0.0	-	
+1818	tsine	0.0	noun	wild ox of the Malay Archipelago
+1819	tsked	0.0	verb	utter `tsk,' `tut,' or `tut-tut,' as in disapproval
+1820	tuarn	0.0	-	
+1821	tucum	0.0	-	
+1822	tuism	0.0	-	
+1823	tukra	0.0	-	
+1824	tutly	0.0	-	
+1825	tuyer	0.0	-	
+1826	twaes	0.0	-	
+1827	twale	0.0	-	
+1828	twyer	0.0	-	
+1829	tyees	0.0	-	
+1830	tyigh	0.0	-	
+1831	tyiyn	0.0	noun	100 tyiyn equal 1 som in Kyrgyzstan
+1832	tyned	0.0	-	
+1833	typal	0.0	-	
+1834	typey	0.0	-	
+1835	typps	0.0	-	
+1836	tyste	0.0	-	
+1837	tzaam	0.0	-	
+1838	uaupe	0.0	-	
+1839	uayeb	0.0	-	
+1840	ubykh	0.0	noun	an extinct Caucasian language spoken exclusively in Turkey
+1841	uckia	0.0	-	
+1842	udasi	0.0	-	
+1843	uhllo	0.0	-	
+1844	uigur	0.0	noun	a member of a people who speak Uighur and live in Xinjiang and adjacent areas
+1845	uinal	0.0	-	
+1846	ulmin	0.0	-	
+1847	ulnad	0.0	-	
+1848	ulnae	0.0	noun	the inner and longer of the two bones of the human forearm
+1849	ulnas	0.0	noun	the inner and longer of the two bones of the human forearm
+1850	uloid	0.0	-	
+1851	uluhi	0.0	-	
+1852	ulvas	0.0	noun	type genus of the family Ulvaceae; green seaweed having a thallus two cells thick: sea lettuce
+1853	umaua	0.0	-	
+1854	umbos	0.0	noun	a slight rounded elevation where the malleus attaches to the eardrum
+1855	umiac	0.0	-	
+1856	umiaq	0.0	-	
+1857	umped	0.0	-	
+1858	umpty	0.0	-	
+1859	unamo	0.0	-	
+1860	unapt	0.0	-	
+1861	unark	0.0	-	
+1862	unarm	0.0	verb	take away the weapons from; render harmless
+1863	unaus	0.0	noun	a sloth of Central America that has two long claws on each forefoot and three long claws on each hindfoot
+1864	unbag	0.0	-	
+1865	unbay	0.0	-	
+1866	unbed	0.0	-	
+1867	unbet	0.0	-	
+1868	unbit	0.0	-	
+1869	unbog	0.0	-	
+1870	unbow	0.0	-	
+1871	unbud	0.0	-	
+1872	uncoy	0.0	-	
+1873	undam	0.0	-	
+1874	unden	0.0	-	
+1875	undig	0.0	-	
+1876	undim	0.0	-	
+1877	undry	0.0	-	
+1878	undub	0.0	-	
+1879	undug	0.0	-	
+1880	unfar	0.0	-	
+1881	unfew	0.0	-	
+1882	unfur	0.0	-	
+1883	ungag	0.0	-	
+1884	ungka	0.0	-	
+1885	ungot	0.0	-	
+1886	ungum	0.0	-	
+1887	unhad	0.0	-	
+1888	unhap	0.0	-	
+1889	unhat	0.0	-	
+1890	unhex	0.0	-	
+1891	unhid	0.0	-	
+1892	unhit	0.0	-	
+1893	unhot	0.0	-	
+1894	uninn	0.0	-	
+1895	unked	0.0	-	
+1896	unken	0.0	-	
+1897	unket	0.0	-	
+1898	unlap	0.0	-	
+1899	unlaw	0.0	-	
+1900	unlay	0.0	-	
+1901	unlet	0.0	-	
+1902	unlid	0.0	-	
+1903	unlie	0.0	-	
+1904	unmew	0.0	-	
+1905	unode	0.0	-	
+1906	unorn	0.0	-	
+1907	unpeg	0.0	-	
+1908	unpen	0.0	-	
+1909	unpot	0.0	-	
+1910	unput	0.0	-	
+1911	unram	0.0	-	
+1912	unray	0.0	-	
+1913	unrid	0.0	-	
+1914	unrig	0.0	-	
+1915	unrip	0.0	-	
+1916	unrun	0.0	-	
+1917	unsad	0.0	-	
+1918	unsew	0.0	-	
+1919	unshy	0.0	-	
+1920	unsly	0.0	-	
+1921	unson	0.0	-	
+1922	unsty	0.0	-	
+1923	untax	0.0	-	
+1924	untop	0.0	-	
+1925	unurn	0.0	-	
+1926	unwan	0.0	-	
+1927	unwax	0.0	-	
+1928	unweb	0.0	-	
+1929	unwet	0.0	-	
+1930	unwig	0.0	-	
+1931	unwon	0.0	-	
+1932	uparm	0.0	-	
+1933	upbar	0.0	-	
+1934	upbay	0.0	-	
+1935	upbid	0.0	-	
+1936	upbow	0.0	-	
+1937	upbuy	0.0	-	
+1938	upbye	0.0	-	
+1939	upcry	0.0	-	
+1940	upcut	0.0	-	
+1941	updry	0.0	-	
+1942	upeat	0.0	-	
+1943	upfly	0.0	-	
+1944	upget	0.0	-	
+1945	upher	0.0	-	
+1946	upjet	0.0	-	
+1947	upleg	0.0	-	
+1948	uplit	0.0	-	
+1949	upmix	0.0	-	
+1950	uppop	0.0	-	
+1951	uprid	0.0	-	
+1952	uprip	0.0	-	
+1953	upsey	0.0	-	
+1954	upsit	0.0	-	
+1955	upsun	0.0	-	
+1956	upsup	0.0	-	
+1957	uptie	0.0	-	
+1958	upwax	0.0	-	
+1959	upway	0.0	-	
+1960	urbia	0.0	-	
+1961	urbic	0.0	-	
+1962	urdee	0.0	-	
+1963	uredo	0.0	-	
+1964	ureic	0.0	-	
+1965	ureid	0.0	-	
+1966	urger	0.0	-	
+1967	urite	0.0	-	
+1968	urlar	0.0	-	
+1969	urled	0.0	-	
+1970	urnae	0.0	-	
+1971	urnal	0.0	-	
+1972	ursid	0.0	-	
+1973	usara	0.0	-	
+1974	usbeg	0.0	noun	a member of a Turkic people of Uzbekistan and neighboring areas
+1975	usbek	0.0	noun	a member of a Turkic people of Uzbekistan and neighboring areas
+1976	usent	0.0	-	
+1977	uskub	0.0	noun	capital of modern Macedonia
+1978	usuli	0.0	noun	a religious movement by Persian Shiite Muslims in 17th century Iran that is opposed to the Akhbari
+1979	utchy	0.0	-	
+1980	utees	0.0	-	
+1981	utick	0.0	-	
+1982	utrum	0.0	-	
+1983	uvate	0.0	-	
+1984	uveas	0.0	noun	the part of the eye that contains the iris and ciliary body and choroid
+1985	uvrou	0.0	-	
+1986	uvver	0.0	-	
+1987	uzbak	0.0	noun	a member of a Turkic people of Uzbekistan and neighboring areas
+1988	uzbeg	0.0	noun	a member of a Turkic people of Uzbekistan and neighboring areas
+1989	vacoa	0.0	-	
+1990	vairs	0.0	-	
+1991	varec	0.0	-	
+1992	vatus	0.0	-	
+1993	veals	0.0	noun	meat from a calf
+1994	vealy	0.0	-	
+1995	vejoz	0.0	-	
+1996	velal	0.0	-	
+1997	velds	0.0	noun	elevated open grassland in southern Africa
+1998	vened	0.0	-	
+1999	vepse	0.0	noun	a member of a Finnish people of Russia
+2000	verek	0.0	-	
+2001	verpa	0.0	noun	a morel whose fertile portion resembles a bell and is attached to the stipe only at the top
+2002	vibex	0.0	-	
+2003	vibix	0.0	-	
+2004	vidry	0.0	-	
+2005	vifda	0.0	-	
+2006	vijao	0.0	-	
+2007	virls	0.0	-	
+2008	vower	0.0	noun	someone who makes a solemn promise to do something or behave in a certain way
+2009	vraic	0.0	-	
+2010	vughs	0.0	-	
+2011	waasi	0.0	-	
+2012	wairs	0.0	-	
+2013	wakif	0.0	-	
+2014	wakon	0.0	-	
+2015	wamel	0.0	-	
+2016	wamus	0.0	-	
+2017	wanle	0.0	-	
+2018	warnt	0.0	-	
+2019	warse	0.0	-	
+2020	warst	0.0	-	
+2021	warua	0.0	-	
+2022	wasts	0.0	-	
+2023	watap	0.0	-	
+2024	wauks	0.0	-	
+2025	wauls	0.0	verb	make high-pitched, whiney noises
+2026	wauns	0.0	-	
+2027	wauve	0.0	-	
+2028	wawls	0.0	verb	make high-pitched, whiney noises
+2029	weals	0.0	noun	a raised mark on the skin (as produced by the blow of a whip); characteristic of many allergic reactions
+2030	weism	0.0	-	
+2031	wekau	0.0	-	
+2032	wevet	0.0	-	
+2033	whalm	0.0	-	
+2034	whaly	0.0	-	
+2035	whame	0.0	-	
+2036	whand	0.0	-	
+2037	whaps	0.0	verb	hit hard
+2038	wharl	0.0	-	
+2039	wharp	0.0	-	
+2040	whauk	0.0	-	
+2041	whaup	0.0	-	
+2042	whaur	0.0	-	
+2043	wheam	0.0	-	
+2044	wheer	0.0	-	
+2045	wheft	0.0	-	
+2046	wheki	0.0	-	
+2047	whewl	0.0	-	
+2048	whews	0.0	-	
+2049	whewt	0.0	-	
+2050	whiba	0.0	-	
+2051	whids	0.0	-	
+2052	whift	0.0	-	
+2053	whilk	0.0	-	
+2054	whils	0.0	-	
+2055	whing	0.0	-	
+2056	whort	0.0	-	
+2057	whulk	0.0	-	
+2058	whush	0.0	-	
+2059	whute	0.0	-	
+2060	wiros	0.0	-	
+2061	wisht	0.0	-	
+2062	wiyat	0.0	-	
+2063	wiyot	0.0	-	
+2064	wizes	0.0	noun	someone who is dazzlingly skilled in any field
+2065	wloka	0.0	-	
+2066	woald	0.0	-	
+2067	wodgy	0.0	-	
+2068	woibe	0.0	-	
+2069	wonts	0.0	noun	an established custom
+2070	woold	0.0	-	
+2071	woons	0.0	-	
+2072	wramp	0.0	-	
+2073	wrawl	0.0	verb	cry loudly, as of animals
+2074	wreat	0.0	-	
+2075	wride	0.0	-	
+2076	wried	0.0	-	
+2077	wries	0.0	-	
+2078	wrive	0.0	-	
+2079	wryer	0.0	adj	humorously sarcastic or mocking
+2080	wudge	0.0	-	
+2081	wyson	0.0	-	
+2082	wyted	0.0	-	
+2083	wytes	0.0	-	
+2084	xenyl	0.0	-	
+2085	xicak	0.0	-	
+2086	xinca	0.0	-	
+2087	xurel	0.0	-	
+2088	xyrid	0.0	-	
+2089	yacal	0.0	-	
+2090	yaffs	0.0	-	
+2091	yamph	0.0	-	
+2092	yamun	0.0	-	
+2093	yaply	0.0	-	
+2094	yapok	0.0	-	
+2095	yapon	0.0	-	
+2096	yarer	0.0	-	
+2097	yarke	0.0	-	
+2098	yauld	0.0	-	
+2099	yaups	0.0	verb	emit long loud cries
+2100	yeans	0.0	-	
+2101	yecch	0.0	-	
+2102	yechy	0.0	-	
+2103	yerth	0.0	-	
+2104	yesty	0.0	-	
+2105	yetts	0.0	-	
+2106	yeuks	0.0	-	
+2107	yeuky	0.0	-	
+2108	ygapo	0.0	-	
+2109	yills	0.0	-	
+2110	yince	0.0	-	
+2111	yinst	0.0	-	
+2112	yirds	0.0	-	
+2113	yirrs	0.0	-	
+2114	yirth	0.0	-	
+2115	yocks	0.0	-	
+2116	yodhs	0.0	noun	the 10th letter of the Hebrew alphabet
+2117	yoghs	0.0	-	
+2118	yoick	0.0	-	
+2119	yomim	0.0	-	
+2120	yomud	0.0	-	
+2121	yores	0.0	noun	time long past
+2122	yoven	0.0	-	
+2123	yowed	0.0	-	
+2124	yucch	0.0	-	
+2125	yunca	0.0	-	
+2126	yupon	0.0	-	
+2127	yurak	0.0	-	
+2128	yuruk	0.0	-	
+2129	zabti	0.0	-	
+2130	zapus	0.0	noun	type genus of the Zapodidae
+2131	zarfs	0.0	noun	an ornamental metal cup-shaped holder for a hot coffee cup
+2132	zaxes	0.0	-	
+2133	zeism	0.0	-	
+2134	zests	0.0	noun	vigorous and enthusiastic enjoyment
+2135	zhmud	0.0	-	
+2136	zibit	0.0	noun	a unit of information equal to 1024 exbibits or 2^70 bits
+2137	ziega	0.0	-	
+2138	ziffs	0.0	-	
+2139	zirai	0.0	-	
+2140	zmudz	0.0	-	
+2141	zoism	0.0	-	
+2142	zoons	0.0	-	
+2143	zoque	0.0	-	
+2144	zudda	0.0	-	
+2145	zymes	0.0	-	
