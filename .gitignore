@@ -6,3 +6,4 @@ run*.log
 *.exe
 lbcheck
 wordlists/3char.txt
+ranked*.txt
