@@ -1,7 +1,8 @@
 proxies.txt
-available.txt
-reserved.txt
-checked.txt
-run.log
+available*.txt
+reserved*.txt
+checked*.txt
+run*.log
 *.exe
 lbcheck
+wordlists/3char.txt
